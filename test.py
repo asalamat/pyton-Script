@@ -7,7 +7,7 @@ username = 'ali.salamat'
 password = 'M3rryXm@s4225'
 
 # Output file path
-output_file = 'computer_names.txt'
+output_file = '/tmp/computer_names.txt'
 
 # LDAP query to retrieve computer names
 ldap_query = '(objectClass=computer)'
