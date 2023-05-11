@@ -3,9 +3,9 @@ import os
 from ldap3 import Server, Connection, ALL, NTLM
 
 # Active Directory server information
-AD_SERVER = 'dch004.lcbo.com'
-AD_USER = 'ali.salamat@lcbo.com'
-AD_PASSWORD = 'fffff'
+AD_SERVER = '{{AD_SERVER}}'
+AD_USER = '{{AD_USER}}'
+AD_PASSWORD = '{{AD_PASSWORD}}'
 
 # Define the LDAP search base and filter
 search_base = 'ou=Computers,dc=example,dc=com'
