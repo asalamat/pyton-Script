@@ -1,10 +1,7 @@
 from ldap3 import Server, Connection, ALL
 
 # Active Directory server details
-server_address = 'dch004.lcbo.com'
-domain = 'lcbo.com'
-username = 'ali.salamat'
-password = 'M3rryXm@s4225'
+
 
 # Output file path
 output_file = '/tmp/computer_names.txt'
