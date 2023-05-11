@@ -1,18 +1,34 @@
-from ldap3 import ALL, Connection, Server
-from ldap3.core.exceptions import LDAPException
+from ldap3 import Server, Connection, ALL
 
-username = "lcbo\ueais"
-password = "M3rryXm@s4225"
-ldap_base = "dc=lcbo,dc=com"
+# Active Directory server details
+server_address = 'dch004.lcbo.com'
+domain = 'lcbo.com'
+username = 'lcbo\ueais'
+password = 'M3rryXm@s4225'
 
-server = Server(
-    host="ldaps://dch005.lcbo.com",
-    port=636,
-    use_ssl=True,
-    get_info=ALL,
-conn.search('dc=lcbo,dc=com', '(objectclass=computer)')
-computers = [entry['attributes']['dNSHostName'] for entry in conn.entries]
+# Output file path
+output_file = 'computer_names.txt'
 
-with open('computers.txt', 'w') as f:
-    for computer in computers:
-        f.write(computer + '\n')
+# LDAP query to retrieve computer names
+ldap_query = '(objectClass=computer)'
+
+try:
+    # Connect to the Active Directory server
+    server = Server(server_address, get_info=ALL)
+    conn = Connection(server, user=f'{username}@{domain}', password=password, auto_bind=True)
+
+    # Perform the LDAP search
+    conn.search(search_base=domain, search_filter=ldap_query, attributes=['cn'])
+
+    # Extract the computer names from the search results
+    computer_names = [entry['cn'].value for entry in conn.entries]
+
+    # Write the computer names to a text file
+    with open(output_file, 'w') as file:
+        file.write('\n'.join(computer_names))
+
+    print(f"Computer names exported to {output_file} successfully.")
+
+except Exception as e:
+    print(f"Error: {str(e)}")
+
