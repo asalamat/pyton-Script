@@ -1,0 +1,4002 @@
+{
+    "DCH020": {
+        "DNS Name": "DCH020",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "DCH006": {
+        "DNS Name": "DCH006",
+        "Operating System": "Windows Server 2016 Datacenter"
+    },
+    "DCH041": {
+        "DNS Name": "DCH041",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "PCIDCH01": {
+        "DNS Name": "PCIDCH01",
+        "Operating System": "Windows Server 2016 Standard"
+    },
+    "DCH051": {
+        "DNS Name": "DCH051",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "DCH031": {
+        "DNS Name": "DCH031",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "DCH002": {
+        "DNS Name": "DCH002",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "DCH040": {
+        "DNS Name": "DCH040",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "DCH005": {
+        "DNS Name": "DCH005",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "DCH030": {
+        "DNS Name": "DCH030",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "PCIDCH02": {
+        "DNS Name": "PCIDCH02",
+        "Operating System": "Windows Server 2016 Datacenter"
+    },
+    "DCH004": {
+        "DNS Name": "DCH004",
+        "Operating System": "Windows Server 2016 Datacenter"
+    },
+    "CTX203": {
+        "DNS Name": "CTX203",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "LSG013": {
+        "DNS Name": "LSG013",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "LSG015": {
+        "DNS Name": "LSG015",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "LSG012": {
+        "DNS Name": "LSG012",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "CSPMPS01": {
+        "DNS Name": "CSPMPS01",
+        "Operating System": "Windows Server 2016 Datacenter"
+    },
+    "EUC100": {
+        "DNS Name": "EUC100",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "Win044": {
+        "DNS Name": "Win044",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "DCH003": {
+        "DNS Name": "DCH003",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "WINPSCA01": {
+        "DNS Name": "WINPSCA01",
+        "Operating System": "Windows Server 2016 Datacenter"
+    },
+    "L3G9284-L852": {
+        "DNS Name": "L3G9284-L852",
+        "Operating System": "Windows XP Professional"
+    },
+    "VM1": {
+        "DNS Name": "VM1",
+        "Operating System": "Windows Server\u00ae 2008 Standard"
+    },
+    "CSG017": {
+        "DNS Name": "CSG017",
+        "Operating System": "Windows Server 2019 Datacenter"
+    },
+    "RSG-NAV003": {
+        "DNS Name": "RSG-NAV003",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "MSD5": {
+        "DNS Name": "MSD5",
+        "Operating System": "Windows NT"
+    },
+    "GCMSCHEMSTATION": {
+        "DNS Name": "GCMSCHEMSTATION",
+        "Operating System": "Windows NT"
+    },
+    "MEGC7": {
+        "DNS Name": "MEGC7",
+        "Operating System": "Windows XP Professional"
+    },
+    "QWGURSGAPP10": {
+        "DNS Name": "QWGURSGAPP10",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "TSG027": {
+        "DNS Name": "TSG027",
+        "Operating System": "Windows Server\u00ae 2008 Standard"
+    },
+    "LKMCLFV-D830X64": {
+        "DNS Name": "LKMCLFV-D830X64",
+        "Operating System": "Windows Vista\u2122 Business"
+    },
+    "KQZXP50-D830": {
+        "DNS Name": "KQZXP50-D830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "VIRTUALPC3_EUC": {
+        "DNS Name": "VIRTUALPC3_EUC",
+        "Operating System": "Windows XP Professional"
+    },
+    "KQMMC2X-D870": {
+        "DNS Name": "KQMMC2X-D870",
+        "Operating System": "Windows XP Professional"
+    },
+    "LKLTKF4-D866": {
+        "DNS Name": "LKLTKF4-D866",
+        "Operating System": "Windows XP Professional"
+    },
+    "RSG015": {
+        "DNS Name": "RSG015",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "RSG016": {
+        "DNS Name": "RSG016",
+        "Operating System": "Windows Server 2012 Datacenter"
+    },
+    "VIRTUALXP-51215": {
+        "DNS Name": "VIRTUALXP-51215",
+        "Operating System": "Windows XP Professional"
+    },
+    "VIRTUALPC2_ITJD": {
+        "DNS Name": "VIRTUALPC2_ITJD",
+        "Operating System": "Windows XP Professional"
+    },
+    "CCAGENTPC": {
+        "DNS Name": "CCAGENTPC",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWS7VM": {
+        "DNS Name": "WINDOWS7VM",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "CCLAPTOPVM": {
+        "DNS Name": "CCLAPTOPVM",
+        "Operating System": "Windows XP Professional"
+    },
+    "WSS002": {
+        "DNS Name": "WSS002",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "SQL2008R2": {
+        "DNS Name": "SQL2008R2",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "LSG008": {
+        "DNS Name": "LSG008",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "LSG009": {
+        "DNS Name": "LSG009",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "vc00000a08f901": {
+        "DNS Name": "vc00000a08f901",
+        "Operating System": "Samba"
+    },
+    "VIRTUAL-CLIENT2": {
+        "DNS Name": "VIRTUAL-CLIENT2",
+        "Operating System": "Windows XP Professional"
+    },
+    "CANPAR-4DCC2777": {
+        "DNS Name": "CANPAR-4DCC2777",
+        "Operating System": "Windows XP Professional"
+    },
+    "FS001": {
+        "DNS Name": "FS001",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "FS003": {
+        "DNS Name": "FS003",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "DIVERSITY_COMP": {
+        "DNS Name": "DIVERSITY_COMP",
+        "Operating System": "Windows XP Professional"
+    },
+    "DIVERSITYSPARE": {
+        "DNS Name": "DIVERSITYSPARE",
+        "Operating System": "Windows XP Professional"
+    },
+    "DIVERSITYSPARE2": {
+        "DNS Name": "DIVERSITYSPARE2",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-81B3EACBF4": {
+        "DNS Name": "LCBO-81B3EACBF4",
+        "Operating System": "Windows XP Professional"
+    },
+    "FS002": {
+        "DNS Name": "FS002",
+        "Operating System": "Windows Server 2012 Standard"
+    },
+    "LCBO-25A37DD7C5": {
+        "DNS Name": "LCBO-25A37DD7C5",
+        "Operating System": "Windows XP Professional"
+    },
+    "DRP-TEST2": {
+        "DNS Name": "DRP-TEST2",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-68D381029D": {
+        "DNS Name": "LCBO-68D381029D",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-11340EFC08": {
+        "DNS Name": "LCBO-11340EFC08",
+        "Operating System": "Windows XP Professional"
+    },
+    "VIRTUAL-MDT2010": {
+        "DNS Name": "VIRTUAL-MDT2010",
+        "Operating System": "Windows XP Professional"
+    },
+    "SDREVM1": {
+        "DNS Name": "SDREVM1",
+        "Operating System": "Windows XP Professional"
+    },
+    "VIRTUAL-CLIENT1": {
+        "DNS Name": "VIRTUAL-CLIENT1",
+        "Operating System": "Windows XP Professional"
+    },
+    "VIRTUAL-CLIENT3": {
+        "DNS Name": "VIRTUAL-CLIENT3",
+        "Operating System": "Windows XP Professional"
+    },
+    "OFFICE2007VM": {
+        "DNS Name": "OFFICE2007VM",
+        "Operating System": "Windows XP Professional"
+    },
+    "DAVEBAUR": {
+        "DNS Name": "DAVEBAUR",
+        "Operating System": "Windows XP Professional"
+    },
+    "EUC051": {
+        "DNS Name": "EUC051",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUC052OLD": {
+        "DNS Name": "EUC052OLD",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUC053": {
+        "DNS Name": "EUC053",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "TSG033": {
+        "DNS Name": "TSG033",
+        "Operating System": "Windows Server 2012 R2 Datacenter"
+    },
+    "IE8UPGRADEVM": {
+        "DNS Name": "IE8UPGRADEVM",
+        "Operating System": "Windows XP Professional"
+    },
+    "CCAGENTPC4": {
+        "DNS Name": "CCAGENTPC4",
+        "Operating System": "Windows XP Professional"
+    },
+    "CCAGENTPC3": {
+        "DNS Name": "CCAGENTPC3",
+        "Operating System": "Windows XP Professional"
+    },
+    "CCAGENTPC5": {
+        "DNS Name": "CCAGENTPC5",
+        "Operating System": "Windows XP Professional"
+    },
+    "CCAGENTPC7": {
+        "DNS Name": "CCAGENTPC7",
+        "Operating System": "Windows XP Professional"
+    },
+    "CCAGENTPC6": {
+        "DNS Name": "CCAGENTPC6",
+        "Operating System": "Windows XP Professional"
+    },
+    "CCAGENTPC8": {
+        "DNS Name": "CCAGENTPC8",
+        "Operating System": "Windows XP Professional"
+    },
+    "CCLAPTOPVM2": {
+        "DNS Name": "CCLAPTOPVM2",
+        "Operating System": "Windows XP Professional"
+    },
+    "IE7TEST_VM2": {
+        "DNS Name": "IE7TEST_VM2",
+        "Operating System": "Windows XP Professional"
+    },
+    "IE7TEST_VM5": {
+        "DNS Name": "IE7TEST_VM5",
+        "Operating System": "Windows XP Professional"
+    },
+    "CSG042": {
+        "DNS Name": "CSG042",
+        "Operating System": "Windows Server 2012 R2 Datacenter"
+    },
+    "MJWN812-H830X64": {
+        "DNS Name": "MJWN812-H830X64",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "WINDOWS7_VM5": {
+        "DNS Name": "WINDOWS7_VM5",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "WINDOWS7_VM6": {
+        "DNS Name": "WINDOWS7_VM6",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "IE7TEST_VM3": {
+        "DNS Name": "IE7TEST_VM3",
+        "Operating System": "Windows XP Professional"
+    },
+    "IE7TEST_VM7": {
+        "DNS Name": "IE7TEST_VM7",
+        "Operating System": "Windows XP Professional"
+    },
+    "IE7TEST_VM8": {
+        "DNS Name": "IE7TEST_VM8",
+        "Operating System": "Windows XP Professional"
+    },
+    "SDREVM2": {
+        "DNS Name": "SDREVM2",
+        "Operating System": "Windows XP Professional"
+    },
+    "IE7TEST_VM4": {
+        "DNS Name": "IE7TEST_VM4",
+        "Operating System": "Windows XP Professional"
+    },
+    "IE7TEST_VM6": {
+        "DNS Name": "IE7TEST_VM6",
+        "Operating System": "Windows XP Professional"
+    },
+    "IE7TEST_VM9": {
+        "DNS Name": "IE7TEST_VM9",
+        "Operating System": "Windows XP Professional"
+    },
+    "EUCLOANER3": {
+        "DNS Name": "EUCLOANER3",
+        "Operating System": "Windows XP Professional"
+    },
+    "EUCLOANER2": {
+        "DNS Name": "EUCLOANER2",
+        "Operating System": "Windows XP Professional"
+    },
+    "EUCLOAN4": {
+        "DNS Name": "EUCLOAN4",
+        "Operating System": "Windows XP Professional"
+    },
+    "IE7TEST_VM10": {
+        "DNS Name": "IE7TEST_VM10",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWS7_VM4": {
+        "DNS Name": "WINDOWS7_VM4",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "WINDOWS7_VM3": {
+        "DNS Name": "WINDOWS7_VM3",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "MJXXR62-D866": {
+        "DNS Name": "MJXXR62-D866",
+        "Operating System": "Windows XP Professional"
+    },
+    "CSG045": {
+        "DNS Name": "CSG045",
+        "Operating System": "Windows Server\u00ae 2008 Enterprise"
+    },
+    "CSG047": {
+        "DNS Name": "CSG047",
+        "Operating System": "Windows Server\u00ae 2008 Enterprise"
+    },
+    "CSG048": {
+        "DNS Name": "CSG048",
+        "Operating System": "Windows Server\u00ae 2008 Enterprise"
+    },
+    "MJEEXD8-L862": {
+        "DNS Name": "MJEEXD8-L862",
+        "Operating System": "Windows XP Professional"
+    },
+    "R98A25P-L861": {
+        "DNS Name": "R98A25P-L861",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R98BMR8-L820": {
+        "DNS Name": "R98BMR8-L820",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R98BMR2-L828": {
+        "DNS Name": "R98BMR2-L828",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJHCFN3-D818": {
+        "DNS Name": "MJHCFN3-D818",
+        "Operating System": "Windows XP Professional"
+    },
+    "R98RKBV-L914": {
+        "DNS Name": "R98RKBV-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJEAKB8-D950": {
+        "DNS Name": "MJEAKB8-D950",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGXGN8-D950": {
+        "DNS Name": "MJGXGN8-D950",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJECGM7-D820": {
+        "DNS Name": "MJECGM7-D820",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MGJXGN2-D950": {
+        "DNS Name": "MGJXGN2-D950",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJEPAM4-D950": {
+        "DNS Name": "MJEPAM4-D950",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGXGN4-D902": {
+        "DNS Name": "MJGXGN4-D902",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJFXPM7-D820": {
+        "DNS Name": "MJFXPM7-D820",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJFHPK2-D863": {
+        "DNS Name": "MJFHPK2-D863",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJKRFW9-D861": {
+        "DNS Name": "MJKRFW9-D861",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJEAKB7-D871": {
+        "DNS Name": "MJEAKB7-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJHGML1-D935": {
+        "DNS Name": "MJHGML1-D935",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJHGML3-D818": {
+        "DNS Name": "MJHGML3-D818",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJKCBY4-D818": {
+        "DNS Name": "MJKCBY4-D818",
+        "Operating System": "Windows 7 Professional"
+    },
+    "CPIOTESTVM1": {
+        "DNS Name": "CPIOTESTVM1",
+        "Operating System": "Windows XP Professional"
+    },
+    "CPIOTESTVM2": {
+        "DNS Name": "CPIOTESTVM2",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJHGML2-D738": {
+        "DNS Name": "MJHGML2-D738",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9A7N62-L843": {
+        "DNS Name": "R9A7N62-L843",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJKCBX4-D864": {
+        "DNS Name": "MJKCBX4-D864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJKCBY5-D864": {
+        "DNS Name": "MJKCBY5-D864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R98A25W-L864": {
+        "DNS Name": "R98A25W-L864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R993KMY-L864": {
+        "DNS Name": "R993KMY-L864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R99METC-L838": {
+        "DNS Name": "R99METC-L838",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9B5NTL-L876": {
+        "DNS Name": "R9B5NTL-L876",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJKCVL6-D871": {
+        "DNS Name": "MJKCVL6-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJHCFN4-D871": {
+        "DNS Name": "MJHCFN4-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJKCVM0-D871": {
+        "DNS Name": "MJKCVM0-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJKCVM2-D871": {
+        "DNS Name": "MJKCVM2-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "CCAGENTPC2": {
+        "DNS Name": "CCAGENTPC2",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJHBKC7-D871": {
+        "DNS Name": "MJHBKC7-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGELF9-D871": {
+        "DNS Name": "MJGELF9-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGELF5-D871": {
+        "DNS Name": "MJGELF5-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGELF6-D871": {
+        "DNS Name": "MJGELF6-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJKCVL8-D871": {
+        "DNS Name": "MJKCVL8-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJKCVM3-D871": {
+        "DNS Name": "MJKCVM3-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJKCVL7-D871": {
+        "DNS Name": "MJKCVL7-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9BHYPT-L821": {
+        "DNS Name": "R9BHYPT-L821",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WINDOWS7_VM2": {
+        "DNS Name": "WINDOWS7_VM2",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "R980BWB-L820": {
+        "DNS Name": "R980BWB-L820",
+        "Operating System": "Windows 7 Professional"
+    },
+    "LKZRK72-D816": {
+        "DNS Name": "LKZRK72-D816",
+        "Operating System": "Windows XP Professional"
+    },
+    "INSXPMODE": {
+        "DNS Name": "INSXPMODE",
+        "Operating System": "Windows XP Professional"
+    },
+    "L38Z08A-L908": {
+        "DNS Name": "L38Z08A-L908",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9BHWV5-L792": {
+        "DNS Name": "R9BHWV5-L792",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9BK99Z-L818": {
+        "DNS Name": "R9BK99Z-L818",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9B5NTY-L914": {
+        "DNS Name": "R9B5NTY-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "RSG021": {
+        "DNS Name": "RSG021",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "RSG022": {
+        "DNS Name": "RSG022",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "R9B5NVE-L871": {
+        "DNS Name": "R9B5NVE-L871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9B5NVC-L868": {
+        "DNS Name": "R9B5NVC-L868",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9B5NTW-L868": {
+        "DNS Name": "R9B5NTW-L868",
+        "Operating System": "Windows 7 Professional"
+    },
+    "CPIOTESTVM3": {
+        "DNS Name": "CPIOTESTVM3",
+        "Operating System": "Windows XP Professional"
+    },
+    "CPIOTESTVM4": {
+        "DNS Name": "CPIOTESTVM4",
+        "Operating System": "Windows XP Professional"
+    },
+    "CPIOTESTVM5": {
+        "DNS Name": "CPIOTESTVM5",
+        "Operating System": "Windows XP Professional"
+    },
+    "CPIOTESTVM6": {
+        "DNS Name": "CPIOTESTVM6",
+        "Operating System": "Windows XP Professional"
+    },
+    "CPIOTESTVM7": {
+        "DNS Name": "CPIOTESTVM7",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "CPIOTESTVM8": {
+        "DNS Name": "CPIOTESTVM8",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "R9B5NV9-L945": {
+        "DNS Name": "R9B5NV9-L945",
+        "Operating System": "Windows 7 Professional"
+    },
+    "LSG014": {
+        "DNS Name": "LSG014",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "LCBO-21FEF90C7E": {
+        "DNS Name": "LCBO-21FEF90C7E",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-8BCC7FE09C": {
+        "DNS Name": "LCBO-8BCC7FE09C",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-60B7191AB8": {
+        "DNS Name": "LCBO-60B7191AB8",
+        "Operating System": "Windows XP Professional"
+    },
+    "LSG016": {
+        "DNS Name": "LSG016",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "R9C72D1-L853": {
+        "DNS Name": "R9C72D1-L853",
+        "Operating System": "Windows XP Professional"
+    },
+    "IRM018": {
+        "DNS Name": "IRM018",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "R9BK9A6-L854": {
+        "DNS Name": "R9BK9A6-L854",
+        "Operating System": "Windows 7 Professional"
+    },
+    "EUCPACKAGER": {
+        "DNS Name": "EUCPACKAGER",
+        "Operating System": "Windows XP Professional"
+    },
+    "LKYGXT5-D821": {
+        "DNS Name": "LKYGXT5-D821",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBOUSER-6D3641": {
+        "DNS Name": "LCBOUSER-6D3641",
+        "Operating System": "Windows XP Professional"
+    },
+    "CSG055": {
+        "DNS Name": "CSG055",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "R9D7TPH-L914": {
+        "DNS Name": "R9D7TPH-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9B01EN-L965": {
+        "DNS Name": "R9B01EN-L965",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9B5NV3-L903": {
+        "DNS Name": "R9B5NV3-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJLDCX0-D965": {
+        "DNS Name": "MJLDCX0-D965",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9C72CV-L905": {
+        "DNS Name": "R9C72CV-L905",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJLDCX9-D965": {
+        "DNS Name": "MJLDCX9-D965",
+        "Operating System": "Windows XP Professional"
+    },
+    "L39G11R-L807": {
+        "DNS Name": "L39G11R-L807",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9BK9A7-L807": {
+        "DNS Name": "R9BK9A7-L807",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJLDCX7-D965": {
+        "DNS Name": "MJLDCX7-D965",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJLDCX6-D965": {
+        "DNS Name": "MJLDCX6-D965",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJHGML0-D830": {
+        "DNS Name": "MJHGML0-D830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJKCBX7-D926": {
+        "DNS Name": "MJKCBX7-D926",
+        "Operating System": "Windows XP Professional"
+    },
+    "TSG036": {
+        "DNS Name": "TSG036",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "CSG057": {
+        "DNS Name": "CSG057",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "LCBO-EC1E17D31B": {
+        "DNS Name": "LCBO-EC1E17D31B",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9EC3MT-L907": {
+        "DNS Name": "R9EC3MT-L907",
+        "Operating System": "Windows 7 Professional"
+    },
+    "LKXNG71-D816": {
+        "DNS Name": "LKXNG71-D816",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9DMAYX-L825": {
+        "DNS Name": "R9DMAYX-L825",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9DWYR7-L826": {
+        "DNS Name": "R9DWYR7-L826",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L38Z0D0-L950": {
+        "DNS Name": "L38Z0D0-L950",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3ADT2H-L854": {
+        "DNS Name": "L3ADT2H-L854",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9B5NV8-L823": {
+        "DNS Name": "R9B5NV8-L823",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJXGCP3-D800": {
+        "DNS Name": "MJXGCP3-D800",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9B5NVB-L874": {
+        "DNS Name": "R9B5NVB-L874",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9DRY7H-L826": {
+        "DNS Name": "R9DRY7H-L826",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9B5NTV-L874": {
+        "DNS Name": "R9B5NTV-L874",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJMFMB9-D889": {
+        "DNS Name": "MJMFMB9-D889",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9BK9A8-L830": {
+        "DNS Name": "R9BK9A8-L830",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJGELF8-D871": {
+        "DNS Name": "MJGELF8-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJMFMC5-D889": {
+        "DNS Name": "MJMFMC5-D889",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9B86M2-L807": {
+        "DNS Name": "R9B86M2-L807",
+        "Operating System": "Windows 7 Professional"
+    },
+    "EUCVIRTUAL010": {
+        "DNS Name": "EUCVIRTUAL010",
+        "Operating System": "Windows XP Professional"
+    },
+    "L34X0M8-L854": {
+        "DNS Name": "L34X0M8-L854",
+        "Operating System": "Windows XP Professional"
+    },
+    "VIRTUALXP-62006": {
+        "DNS Name": "VIRTUALXP-62006",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJFMLB6-D806": {
+        "DNS Name": "MJFMLB6-D806",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRNKV2-D816": {
+        "DNS Name": "MJRNKV2-D816",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRNKV7-D816": {
+        "DNS Name": "MJRNKV7-D816",
+        "Operating System": "Windows 7 Professional"
+    },
+    "RSG027": {
+        "DNS Name": "RSG027",
+        "Operating System": "Windows Server 2012 Standard"
+    },
+    "R8536N8-L854A": {
+        "DNS Name": "R8536N8-L854A",
+        "Operating System": "Windows XP Professional"
+    },
+    "MININT-C7VGO3V": {
+        "DNS Name": "MININT-C7VGO3V",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJLDCX5-D903": {
+        "DNS Name": "MJLDCX5-D903",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9BHWTW-L796": {
+        "DNS Name": "R9BHWTW-L796",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJKCBY9-D833": {
+        "DNS Name": "MJKCBY9-D833",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9BHWTY-L796": {
+        "DNS Name": "R9BHWTY-L796",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9E75MT-L842": {
+        "DNS Name": "R9E75MT-L842",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9BHWV1-L792": {
+        "DNS Name": "R9BHWV1-L792",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9B5NV1-L903": {
+        "DNS Name": "R9B5NV1-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJKBWD8-D926": {
+        "DNS Name": "MJKBWD8-D926",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJTYRZ5-D842": {
+        "DNS Name": "MJTYRZ5-D842",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJZVGR8-D950": {
+        "DNS Name": "MJZVGR8-D950",
+        "Operating System": "Windows 7 Professional"
+    },
+    "CSG061": {
+        "DNS Name": "CSG061",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "MJLMEY4-D907": {
+        "DNS Name": "MJLMEY4-D907",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJZVGR4-D950": {
+        "DNS Name": "MJZVGR4-D950",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9EYMW8-L842": {
+        "DNS Name": "R9EYMW8-L842",
+        "Operating System": "Windows 7 Professional"
+    },
+    "VIRTUALXPEUCLAB": {
+        "DNS Name": "VIRTUALXPEUCLAB",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJAXFNG-D945": {
+        "DNS Name": "MJAXFNG-D945",
+        "Operating System": "Windows 7 Professional"
+    },
+    "LKBVCFF-D830": {
+        "DNS Name": "LKBVCFF-D830",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9A7N63-L843": {
+        "DNS Name": "R9A7N63-L843",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9B01ER-L790": {
+        "DNS Name": "R9B01ER-L790",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9B5NVA-L844": {
+        "DNS Name": "R9B5NVA-L844",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJZVGR2-D950": {
+        "DNS Name": "MJZVGR2-D950",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJZVGR3-D950": {
+        "DNS Name": "MJZVGR3-D950",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9B01ET-L790": {
+        "DNS Name": "R9B01ET-L790",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRNKT5-D902": {
+        "DNS Name": "MJRNKT5-D902",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJAWHMW-D903": {
+        "DNS Name": "MJAWHMW-D903",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9E0G79-L826": {
+        "DNS Name": "R9E0G79-L826",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9E4LZ7-L910": {
+        "DNS Name": "R9E4LZ7-L910",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9DMAYY-L826": {
+        "DNS Name": "R9DMAYY-L826",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9E8V85-L902": {
+        "DNS Name": "R9E8V85-L902",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FK7NZ-L903": {
+        "DNS Name": "R9FK7NZ-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJAXFNP-D890": {
+        "DNS Name": "MJAXFNP-D890",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9DWYR8-L826": {
+        "DNS Name": "R9DWYR8-L826",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FX06L-L890": {
+        "DNS Name": "R9FX06L-L890",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9A7N5Z-L790": {
+        "DNS Name": "R9A7N5Z-L790",
+        "Operating System": "Windows XP Professional"
+    },
+    "FS004": {
+        "DNS Name": "FS004",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "R9E3M40-L826": {
+        "DNS Name": "R9E3M40-L826",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9E76EM-L917": {
+        "DNS Name": "R9E76EM-L917",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FA8P9-L903": {
+        "DNS Name": "R9FA8P9-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GFTYB-L790": {
+        "DNS Name": "R9GFTYB-L790",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FK7P1-L903": {
+        "DNS Name": "R9FK7P1-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FK7P5-L903": {
+        "DNS Name": "R9FK7P5-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MININT-JS6DPE6": {
+        "DNS Name": "MININT-JS6DPE6",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9E76EK-L903": {
+        "DNS Name": "R9E76EK-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRNKT9-D910": {
+        "DNS Name": "MJRNKT9-D910",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRNKR3-D910": {
+        "DNS Name": "MJRNKR3-D910",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJRNKP7-D910": {
+        "DNS Name": "MJRNKP7-D910",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRNKT2-D910": {
+        "DNS Name": "MJRNKT2-D910",
+        "Operating System": "Windows 7 Professional"
+    },
+    "LCBO-C31848921D": {
+        "DNS Name": "LCBO-C31848921D",
+        "Operating System": "Windows XP Professional"
+    },
+    "MININT-GGDT8TP": {
+        "DNS Name": "MININT-GGDT8TP",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9G8GX4-L861": {
+        "DNS Name": "R9G8GX4-L861",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FZ9NF-L863": {
+        "DNS Name": "R9FZ9NF-L863",
+        "Operating System": "Windows 7 Professional"
+    },
+    "LSG060": {
+        "DNS Name": "LSG060",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "VIRTUALXP-98464": {
+        "DNS Name": "VIRTUALXP-98464",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJAWHNG-D903": {
+        "DNS Name": "MJAWHNG-D903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJAWHNW-D890": {
+        "DNS Name": "MJAWHNW-D890",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJBYVVN-D863": {
+        "DNS Name": "MJBYVVN-D863",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GXN27-L792": {
+        "DNS Name": "R9GXN27-L792",
+        "Operating System": "Windows 7 Professional"
+    },
+    "LCBO_TEST_T410S": {
+        "DNS Name": "LCBO_TEST_T410S",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9CAHR6-L854": {
+        "DNS Name": "R9CAHR6-L854",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R8536R3-L854": {
+        "DNS Name": "R8536R3-L854",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3H4035-L839A": {
+        "DNS Name": "L3H4035-L839A",
+        "Operating System": "Windows XP Professional"
+    },
+    "R8536N9-L830": {
+        "DNS Name": "R8536N9-L830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FK7NY-L903": {
+        "DNS Name": "R9FK7NY-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "TSG037": {
+        "DNS Name": "TSG037",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "R9FA8PA-L950": {
+        "DNS Name": "R9FA8PA-L950",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FFTNG-L803": {
+        "DNS Name": "R9FFTNG-L803",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9CAG8X-L834": {
+        "DNS Name": "R9CAG8X-L834",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FFTNB-L803": {
+        "DNS Name": "R9FFTNB-L803",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FFTNH-L803": {
+        "DNS Name": "R9FFTNH-L803",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FFTN7-L803": {
+        "DNS Name": "R9FFTN7-L803",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9CAHRA-L834": {
+        "DNS Name": "R9CAHRA-L834",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9BK9AA-L834": {
+        "DNS Name": "R9BK9AA-L834",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9C5WAR-L829": {
+        "DNS Name": "R9C5WAR-L829",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9GXN2B-L792": {
+        "DNS Name": "R9GXN2B-L792",
+        "Operating System": "Windows 7 Professional"
+    },
+    "IRMVIRTUAL001": {
+        "DNS Name": "IRMVIRTUAL001",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9BK9A4-L829": {
+        "DNS Name": "R9BK9A4-L829",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJAXFNH-D945": {
+        "DNS Name": "MJAXFNH-D945",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJAWHMY-D903": {
+        "DNS Name": "MJAWHMY-D903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9C72CM-L830": {
+        "DNS Name": "R9C72CM-L830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJAWHMX-D950": {
+        "DNS Name": "MJAWHMX-D950",
+        "Operating System": "Windows 7 Professional"
+    },
+    "IRMVIRTUAL002": {
+        "DNS Name": "IRMVIRTUAL002",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "IRMVIRTUAL003": {
+        "DNS Name": "IRMVIRTUAL003",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "CORPVIRTUAL001": {
+        "DNS Name": "CORPVIRTUAL001",
+        "Operating System": "Windows XP Professional"
+    },
+    "RSG028": {
+        "DNS Name": "RSG028",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "L3AAC7R-L907": {
+        "DNS Name": "L3AAC7R-L907",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJBGTRB-D935": {
+        "DNS Name": "MJBGTRB-D935",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3AAC7X-L830": {
+        "DNS Name": "L3AAC7X-L830",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9C72CW-L853": {
+        "DNS Name": "R9C72CW-L853",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJAWHNN-D907": {
+        "DNS Name": "MJAWHNN-D907",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJAWHNM-D862": {
+        "DNS Name": "MJAWHNM-D862",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FFTNC-L862": {
+        "DNS Name": "R9FFTNC-L862",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9FFTNK-L862": {
+        "DNS Name": "R9FFTNK-L862",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FZ9NG-L868": {
+        "DNS Name": "R9FZ9NG-L868",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FT0V8-L840": {
+        "DNS Name": "R9FT0V8-L840",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FFTNL-L840": {
+        "DNS Name": "R9FFTNL-L840",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FT0V3-L840": {
+        "DNS Name": "R9FT0V3-L840",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FT0VA-L840": {
+        "DNS Name": "R9FT0VA-L840",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GXN2C-L738": {
+        "DNS Name": "R9GXN2C-L738",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJBYVVT-D863": {
+        "DNS Name": "MJBYVVT-D863",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3A6547-L873": {
+        "DNS Name": "L3A6547-L873",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3DE790-L873": {
+        "DNS Name": "L3DE790-L873",
+        "Operating System": "Windows XP Professional"
+    },
+    "LKBVCDH-D832": {
+        "DNS Name": "LKBVCDH-D832",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AAC7T-L903": {
+        "DNS Name": "L3AAC7T-L903",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJBYVV1-D861": {
+        "DNS Name": "MJBYVV1-D861",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9FT0V1-L863": {
+        "DNS Name": "R9FT0V1-L863",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJBYVVF-D863": {
+        "DNS Name": "MJBYVVF-D863",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJBYVVK-D840": {
+        "DNS Name": "MJBYVVK-D840",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJCMXHB-D890": {
+        "DNS Name": "MJCMXHB-D890",
+        "Operating System": "Windows 7 Professional"
+    },
+    "VIRTUALXP-85547": {
+        "DNS Name": "VIRTUALXP-85547",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJBYVVR-D861": {
+        "DNS Name": "MJBYVVR-D861",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJBGTRH-D935": {
+        "DNS Name": "MJBGTRH-D935",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHMZ-D889": {
+        "DNS Name": "MJGNHMZ-D889",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9B5NV2-EUC": {
+        "DNS Name": "R9B5NV2-EUC",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJCVBAH-D961": {
+        "DNS Name": "MJCVBAH-D961",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJBGTPV-D935": {
+        "DNS Name": "MJBGTPV-D935",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FT0V6-L859": {
+        "DNS Name": "R9FT0V6-L859",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9G8GX9-L902": {
+        "DNS Name": "R9G8GX9-L902",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GXN28-L738": {
+        "DNS Name": "R9GXN28-L738",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FFTN8-L945": {
+        "DNS Name": "R9FFTN8-L945",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJBGTRF-D935": {
+        "DNS Name": "MJBGTRF-D935",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GM1EG-L961": {
+        "DNS Name": "R9GM1EG-L961",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJCVBAG-D961": {
+        "DNS Name": "MJCVBAG-D961",
+        "Operating System": "Windows XP Professional"
+    },
+    "VIRTUALXP-23938": {
+        "DNS Name": "VIRTUALXP-23938",
+        "Operating System": "Windows XP Professional"
+    },
+    "VIRTUALXP-55431": {
+        "DNS Name": "VIRTUALXP-55431",
+        "Operating System": "Windows XP Professional"
+    },
+    "LKHLRBL-863": {
+        "DNS Name": "LKHLRBL-863",
+        "Operating System": "Windows XP Professional"
+    },
+    "L35L4K2L857G20": {
+        "DNS Name": "L35L4K2L857G20",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJCVBAV-D961": {
+        "DNS Name": "MJCVBAV-D961",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJCVBAK-D961": {
+        "DNS Name": "MJCVBAK-D961",
+        "Operating System": "Windows XP Professional"
+    },
+    "TSG043": {
+        "DNS Name": "TSG043",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "R9GK4D1-L738": {
+        "DNS Name": "R9GK4D1-L738",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9B5NV2-L853": {
+        "DNS Name": "R9B5NV2-L853",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9CAHR5-L831": {
+        "DNS Name": "R9CAHR5-L831",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJCMXGZ-L738": {
+        "DNS Name": "MJCMXGZ-L738",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJCMXHA-L738": {
+        "DNS Name": "MJCMXHA-L738",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJCMXHC-D738": {
+        "DNS Name": "MJCMXHC-D738",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJCMXGW-D738": {
+        "DNS Name": "MJCMXGW-D738",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJCMXGZ-D738": {
+        "DNS Name": "MJCMXGZ-D738",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJCVBAF-D864": {
+        "DNS Name": "MJCVBAF-D864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GM1EL-L864": {
+        "DNS Name": "R9GM1EL-L864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9BK9A0-L854": {
+        "DNS Name": "R9BK9A0-L854",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJCMKPG-D738": {
+        "DNS Name": "MJCMKPG-D738",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9GM1EK-L852": {
+        "DNS Name": "R9GM1EK-L852",
+        "Operating System": "Windows 7 Professional"
+    },
+    "VIRTUALXP-34469": {
+        "DNS Name": "VIRTUALXP-34469",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJCMXGX-D738": {
+        "DNS Name": "MJCMXGX-D738",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9CAGBY-L854": {
+        "DNS Name": "R9CAGBY-L854",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9GWEK9-L941": {
+        "DNS Name": "R9GWEK9-L941",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9CAHR7-L831": {
+        "DNS Name": "R9CAHR7-L831",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9655FW-L894": {
+        "DNS Name": "R9655FW-L894",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9G8GX8-L861": {
+        "DNS Name": "R9G8GX8-L861",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9G8GX7-L861": {
+        "DNS Name": "R9G8GX7-L861",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJCVBAW-D864": {
+        "DNS Name": "MJCVBAW-D864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJBGTRX-D737": {
+        "DNS Name": "MJBGTRX-D737",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJBGTPG-D737": {
+        "DNS Name": "MJBGTPG-D737",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJ02467-D833": {
+        "DNS Name": "MJ02467-D833",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9FK7P4-L908": {
+        "DNS Name": "R9FK7P4-L908",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJBGTRC-D737": {
+        "DNS Name": "MJBGTRC-D737",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GWEHM-L871": {
+        "DNS Name": "R9GWEHM-L871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJCVBAL-D871": {
+        "DNS Name": "MJCVBAL-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FT0V4-L821": {
+        "DNS Name": "R9FT0V4-L821",
+        "Operating System": "Windows 7 Professional"
+    },
+    "AAC7X-EUCLOAN": {
+        "DNS Name": "AAC7X-EUCLOAN",
+        "Operating System": "Windows 7 Professional"
+    },
+    "EUC-LOANER": {
+        "DNS Name": "EUC-LOANER",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9BE229-L834": {
+        "DNS Name": "R9BE229-L834",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9E8V84-L808": {
+        "DNS Name": "R9E8V84-L808",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9E8V83-L808": {
+        "DNS Name": "R9E8V83-L808",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9BE21Z-L853": {
+        "DNS Name": "R9BE21Z-L853",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9BK9AB": {
+        "DNS Name": "R9BK9AB",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AAC7L-EUTEST": {
+        "DNS Name": "L3AAC7L-EUTEST",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9CAG8Z-L831": {
+        "DNS Name": "R9CAG8Z-L831",
+        "Operating System": "Windows 7 Professional"
+    },
+    "LVB0546-T909": {
+        "DNS Name": "LVB0546-T909",
+        "Operating System": "Windows XP Tablet PC Edition"
+    },
+    "LVB0001-T909": {
+        "DNS Name": "LVB0001-T909",
+        "Operating System": "Windows XP Tablet PC Edition"
+    },
+    "MININT-VBF8K73": {
+        "DNS Name": "MININT-VBF8K73",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WWT002": {
+        "DNS Name": "WWT002",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJCMKPF-D864": {
+        "DNS Name": "MJCMKPF-D864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WWT001": {
+        "DNS Name": "WWT001",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9CAG8W-L832": {
+        "DNS Name": "R9CAG8W-L832",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWS7_VM7": {
+        "DNS Name": "WINDOWS7_VM7",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "WINDOWS7_VM8": {
+        "DNS Name": "WINDOWS7_VM8",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "WINDOWS7_VM9": {
+        "DNS Name": "WINDOWS7_VM9",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "MJBGTRE-D935": {
+        "DNS Name": "MJBGTRE-D935",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WINDOWS7_VM10": {
+        "DNS Name": "WINDOWS7_VM10",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "R99V5C6-L895": {
+        "DNS Name": "R99V5C6-L895",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R99V5C4-L895": {
+        "DNS Name": "R99V5C4-L895",
+        "Operating System": "Windows 7 Professional"
+    },
+    "LVA9993-T909": {
+        "DNS Name": "LVA9993-T909",
+        "Operating System": "Windows XP Tablet PC Edition"
+    },
+    "R9KC14Z-L873": {
+        "DNS Name": "R9KC14Z-L873",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9KC13M-L917": {
+        "DNS Name": "R9KC13M-L917",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WINXPX86_VIR": {
+        "DNS Name": "WINXPX86_VIR",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9GWEKP-L857": {
+        "DNS Name": "R9GWEKP-L857",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GWEHY-L857": {
+        "DNS Name": "R9GWEHY-L857",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9KC13G-L857": {
+        "DNS Name": "R9KC13G-L857",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9KC139-L857": {
+        "DNS Name": "R9KC139-L857",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9KC13L-L857": {
+        "DNS Name": "R9KC13L-L857",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9KC13D-L857": {
+        "DNS Name": "R9KC13D-L857",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GWEKG-L857": {
+        "DNS Name": "R9GWEKG-L857",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GWEKT-L857": {
+        "DNS Name": "R9GWEKT-L857",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GWEHD-L857": {
+        "DNS Name": "R9GWEHD-L857",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9KC13F-L857": {
+        "DNS Name": "R9KC13F-L857",
+        "Operating System": "Windows 7 Professional"
+    },
+    "CSG063": {
+        "DNS Name": "CSG063",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "R9GWEKX-L857": {
+        "DNS Name": "R9GWEKX-L857",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9GWEKE-L857": {
+        "DNS Name": "R9GWEKE-L857",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GWEKV-L857": {
+        "DNS Name": "R9GWEKV-L857",
+        "Operating System": "Windows 7 Professional"
+    },
+    "CSG065": {
+        "DNS Name": "CSG065",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "R9HEZEY-L878": {
+        "DNS Name": "R9HEZEY-L878",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WIN8DEVPREV": {
+        "DNS Name": "WIN8DEVPREV",
+        "Operating System": "Windows Developer Preview"
+    },
+    "R9GWEK8-L842": {
+        "DNS Name": "R9GWEK8-L842",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R98BMR6-L908": {
+        "DNS Name": "R98BMR6-L908",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MININT-J7J5EH8": {
+        "DNS Name": "MININT-J7J5EH8",
+        "Operating System": "Windows XP Professional"
+    },
+    "CSG067": {
+        "DNS Name": "CSG067",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "MJDZHNX-D935": {
+        "DNS Name": "MJDZHNX-D935",
+        "Operating System": "Windows 7 Professional"
+    },
+    "EDGETEST-EUC": {
+        "DNS Name": "EDGETEST-EUC",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJEATVL-D844": {
+        "DNS Name": "MJEATVL-D844",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJBGTPF-D885": {
+        "DNS Name": "MJBGTPF-D885",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHNK-D885": {
+        "DNS Name": "MJGNHNK-D885",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJDYZTG-D885": {
+        "DNS Name": "MJDYZTG-D885",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WINDOWS8BETA": {
+        "DNS Name": "WINDOWS8BETA",
+        "Operating System": "Windows 8 Consumer Preview"
+    },
+    "MJGNHNC-D885": {
+        "DNS Name": "MJGNHNC-D885",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJEATVG-D885": {
+        "DNS Name": "MJEATVG-D885",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3AAD8W-L843": {
+        "DNS Name": "L3AAD8W-L843",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3E6017-EUCLOAN": {
+        "DNS Name": "L3E6017-EUCLOAN",
+        "Operating System": "Windows XP Professional"
+    },
+    "LKBVCFT-D843": {
+        "DNS Name": "LKBVCFT-D843",
+        "Operating System": "Windows XP Professional"
+    },
+    "LKPBDC6-D845": {
+        "DNS Name": "LKPBDC6-D845",
+        "Operating System": "Windows XP Professional"
+    },
+    "LVB0548-T909": {
+        "DNS Name": "LVB0548-T909",
+        "Operating System": "Windows XP Tablet PC Edition"
+    },
+    "R9BK9A2-L807": {
+        "DNS Name": "R9BK9A2-L807",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHNB-D885": {
+        "DNS Name": "MJGNHNB-D885",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJCVBAR-L844": {
+        "DNS Name": "MJCVBAR-L844",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJGGVMD-D844": {
+        "DNS Name": "MJGGVMD-D844",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJEATVM-D844": {
+        "DNS Name": "MJEATVM-D844",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHNR-D843": {
+        "DNS Name": "MJGNHNR-D843",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHNA-D843": {
+        "DNS Name": "MJGNHNA-D843",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJDZHNW-D914": {
+        "DNS Name": "MJDZHNW-D914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9M01F3-L909": {
+        "DNS Name": "R9M01F3-L909",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJGNHNE-D914": {
+        "DNS Name": "MJGNHNE-D914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJDYZTH-D914": {
+        "DNS Name": "MJDYZTH-D914",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LM1EY-L874": {
+        "DNS Name": "R9LM1EY-L874",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9L1N1N-L874": {
+        "DNS Name": "R9L1N1N-L874",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LV3PN-L913": {
+        "DNS Name": "R9LV3PN-L913",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHPN-D884": {
+        "DNS Name": "MJGNHPN-D884",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHPM-D884": {
+        "DNS Name": "MJGNHPM-D884",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GWEKW-L885": {
+        "DNS Name": "R9GWEKW-L885",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHPA-D843": {
+        "DNS Name": "MJGNHPA-D843",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHMR-D843": {
+        "DNS Name": "MJGNHMR-D843",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM1EC-L903": {
+        "DNS Name": "R9LM1EC-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHNN-D843": {
+        "DNS Name": "MJGNHNN-D843",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHNM-D843": {
+        "DNS Name": "MJGNHNM-D843",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJGNHPL-D843": {
+        "DNS Name": "MJGNHPL-D843",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHNZ-D843": {
+        "DNS Name": "MJGNHNZ-D843",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHNG-D843": {
+        "DNS Name": "MJGNHNG-D843",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGGVMC-D843": {
+        "DNS Name": "MJGGVMC-D843",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHNL-D843": {
+        "DNS Name": "MJGNHNL-D843",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GWEKP-L796": {
+        "DNS Name": "R9GWEKP-L796",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9C72CW-L831": {
+        "DNS Name": "R9C72CW-L831",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9M01F4-T909": {
+        "DNS Name": "R9M01F4-T909",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9M01F5-T909": {
+        "DNS Name": "R9M01F5-T909",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9M01F0-T909": {
+        "DNS Name": "R9M01F0-T909",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9M01F6-T909": {
+        "DNS Name": "R9M01F6-T909",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LZRPF-L914": {
+        "DNS Name": "R9LZRPF-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LZRPA-L914": {
+        "DNS Name": "R9LZRPA-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJ17048-D910": {
+        "DNS Name": "MJ17048-D910",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LZRPX-L914": {
+        "DNS Name": "R9LZRPX-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3E3F56-EUC": {
+        "DNS Name": "L3E3F56-EUC",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LZRPP-L914": {
+        "DNS Name": "R9LZRPP-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LZRPV-L914": {
+        "DNS Name": "R9LZRPV-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LZRP6-L914": {
+        "DNS Name": "R9LZRP6-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM1ET-L790": {
+        "DNS Name": "R9LM1ET-L790",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LZRP8-L914": {
+        "DNS Name": "R9LZRP8-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3AAC7P-L830": {
+        "DNS Name": "L3AAC7P-L830",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AAA8K-L830": {
+        "DNS Name": "L3AAA8K-L830",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LM1EK-L798": {
+        "DNS Name": "R9LM1EK-L798",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LM1ED-L886": {
+        "DNS Name": "R9LM1ED-L886",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9L1N10-L886": {
+        "DNS Name": "R9L1N10-L886",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM1E9-L886": {
+        "DNS Name": "R9LM1E9-L886",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM1EM-L798": {
+        "DNS Name": "R9LM1EM-L798",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LM1EW-L886": {
+        "DNS Name": "R9LM1EW-L886",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJEATVN-D845": {
+        "DNS Name": "MJEATVN-D845",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHPF-D965": {
+        "DNS Name": "MJGNHPF-D965",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJGNHMV-D965": {
+        "DNS Name": "MJGNHMV-D965",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJGNHMX-D845": {
+        "DNS Name": "MJGNHMX-D845",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHMW-D871": {
+        "DNS Name": "MJGNHMW-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGNHPH-D965": {
+        "DNS Name": "MJGNHPH-D965",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJGNHPE-D965": {
+        "DNS Name": "MJGNHPE-D965",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJGNHPB-D965": {
+        "DNS Name": "MJGNHPB-D965",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LM1EF-L795": {
+        "DNS Name": "R9LM1EF-L795",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJNHNX-D820": {
+        "DNS Name": "MJNHNX-D820",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3G9443-L801": {
+        "DNS Name": "L3G9443-L801",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AAC0N-T914": {
+        "DNS Name": "L3AAC0N-T914",
+        "Operating System": "Windows XP Tablet PC Edition"
+    },
+    "LKYVYD3-EUTEST": {
+        "DNS Name": "LKYVYD3-EUTEST",
+        "Operating System": "Windows XP Professional"
+    },
+    "LKYVYD3-D29": {
+        "DNS Name": "LKYVYD3-D29",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3-E2641-LA30": {
+        "DNS Name": "L3-E2641-LA30",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJGNHPP-D818": {
+        "DNS Name": "MJGNHPP-D818",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AAC7P-L801": {
+        "DNS Name": "L3AAC7P-L801",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJEATVA-D945": {
+        "DNS Name": "MJEATVA-D945",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJEATVE-D945": {
+        "DNS Name": "MJEATVE-D945",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJGEYBA-D945": {
+        "DNS Name": "MJGEYBA-D945",
+        "Operating System": "Windows 7 Professional"
+    },
+    "EUC-TEST": {
+        "DNS Name": "EUC-TEST",
+        "Operating System": "Windows XP Professional"
+    },
+    "EUC-LAB-T1": {
+        "DNS Name": "EUC-LAB-T1",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9GWEKY-L905": {
+        "DNS Name": "R9GWEKY-L905",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3ADR8L-L830": {
+        "DNS Name": "L3ADR8L-L830",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AEB2X-L830": {
+        "DNS Name": "L3AEB2X-L830",
+        "Operating System": "Windows XP Professional"
+    },
+    "R99V5C7-L895": {
+        "DNS Name": "R99V5C7-L895",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MININT-KR1OP5T": {
+        "DNS Name": "MININT-KR1OP5T",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJDH874-D945": {
+        "DNS Name": "MJDH874-D945",
+        "Operating System": "Windows 7 Professional"
+    },
+    "CSG073": {
+        "DNS Name": "CSG073",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "R9LM1E-L886": {
+        "DNS Name": "R9LM1E-L886",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LM1EV-L795": {
+        "DNS Name": "R9LM1EV-L795",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9PRXY4-L804": {
+        "DNS Name": "R9PRXY4-L804",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LM150-L804": {
+        "DNS Name": "R9LM150-L804",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJHHJLYL-D804": {
+        "DNS Name": "MJHHJLYL-D804",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJHHMAA-D804": {
+        "DNS Name": "MJHHMAA-D804",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WINDOWS7_VM1": {
+        "DNS Name": "WINDOWS7_VM1",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "R9M6FVF-L886": {
+        "DNS Name": "R9M6FVF-L886",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJHLAEX-D830": {
+        "DNS Name": "MJHLAEX-D830",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LM12D-L830": {
+        "DNS Name": "R9LM12D-L830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJHMYFN-D830": {
+        "DNS Name": "MJHMYFN-D830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM123-L830": {
+        "DNS Name": "R9LM123-L830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJBGTPE-D827": {
+        "DNS Name": "MJBGTPE-D827",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LZRPN-L914": {
+        "DNS Name": "R9LZRPN-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJHHLZP-D804": {
+        "DNS Name": "MJHHLZP-D804",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LM14F-L804": {
+        "DNS Name": "R9LM14F-L804",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJBGTPW-D935": {
+        "DNS Name": "MJBGTPW-D935",
+        "Operating System": "Windows XP Professional"
+    },
+    "MININT-JC1U8GV": {
+        "DNS Name": "MININT-JC1U8GV",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJHHLZM-D8843": {
+        "DNS Name": "MJHHLZM-D8843",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJHHLZK-D834": {
+        "DNS Name": "MJHHLZK-D834",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM113-L804": {
+        "DNS Name": "R9LM113-L804",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJHHLZG-D852": {
+        "DNS Name": "MJHHLZG-D852",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM11C-L834": {
+        "DNS Name": "R9LM11C-L834",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LM14C-L852": {
+        "DNS Name": "R9LM14C-L852",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM13V-L925": {
+        "DNS Name": "R9LM13V-L925",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-9F8C85BA36": {
+        "DNS Name": "LCBO-9F8C85BA36",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJHHMAB-830": {
+        "DNS Name": "MJHHMAB-830",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWS7VM12": {
+        "DNS Name": "WINDOWS7VM12",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "WINDOWS7VM13": {
+        "DNS Name": "WINDOWS7VM13",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "CAWORKSTATIONVM": {
+        "DNS Name": "CAWORKSTATIONVM",
+        "Operating System": "Windows XP Professional"
+    },
+    "CAWORKSTATION2": {
+        "DNS Name": "CAWORKSTATION2",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWS7VM14": {
+        "DNS Name": "WINDOWS7VM14",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "WINDOWS7VM15": {
+        "DNS Name": "WINDOWS7VM15",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WINDOWS7VM16": {
+        "DNS Name": "WINDOWS7VM16",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "WINDOWS7VM17": {
+        "DNS Name": "WINDOWS7VM17",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "MININT-P8BR98Q": {
+        "DNS Name": "MININT-P8BR98Q",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3ACY8X-L830_VM": {
+        "DNS Name": "L3ACY8X-L830_VM",
+        "Operating System": "Windows XP Professional"
+    },
+    "MININT-AIAK465": {
+        "DNS Name": "MININT-AIAK465",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9GXN29-L886": {
+        "DNS Name": "R9GXN29-L886",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MININT-33C1U57": {
+        "DNS Name": "MININT-33C1U57",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MININT-IVV8S72": {
+        "DNS Name": "MININT-IVV8S72",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WINDOWS7VM11": {
+        "DNS Name": "WINDOWS7VM11",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "MININT-V0UCKUG": {
+        "DNS Name": "MININT-V0UCKUG",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3AAE7K-L895": {
+        "DNS Name": "L3AAE7K-L895",
+        "Operating System": "Windows XP Professional"
+    },
+    "SAM016": {
+        "DNS Name": "SAM016",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "MJHLAEZ-D831": {
+        "DNS Name": "MJHLAEZ-D831",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WINDOWS7VM18": {
+        "DNS Name": "WINDOWS7VM18",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "WINDOWS7VM9": {
+        "DNS Name": "WINDOWS7VM9",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "MJHLAEW-D830": {
+        "DNS Name": "MJHLAEW-D830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJHHLZC-D830": {
+        "DNS Name": "MJHHLZC-D830",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LM11C-L830": {
+        "DNS Name": "R9LM11C-L830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LZRPT-L914": {
+        "DNS Name": "R9LZRPT-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3AAD0X-L914": {
+        "DNS Name": "L3AAD0X-L914",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJGNHNP-D811": {
+        "DNS Name": "MJGNHNP-D811",
+        "Operating System": "Windows 7 Professional"
+    },
+    "SP2010DEV_SUPPL": {
+        "DNS Name": "SP2010DEV_SUPPL",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "L3ADV0W-L795": {
+        "DNS Name": "L3ADV0W-L795",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWS7_VM2X64": {
+        "DNS Name": "WINDOWS7_VM2X64",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "LVA9991-T909": {
+        "DNS Name": "LVA9991-T909",
+        "Operating System": "Windows XP Tablet PC Edition"
+    },
+    "MJGNHNW-D864": {
+        "DNS Name": "MJGNHNW-D864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WINDOWS8CONPRE": {
+        "DNS Name": "WINDOWS8CONPRE",
+        "Operating System": "Windows 8 Release Preview"
+    },
+    "R9LM139-L947": {
+        "DNS Name": "R9LM139-L947",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM138-L847": {
+        "DNS Name": "R9LM138-L847",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WINDOWS7_VM7X64": {
+        "DNS Name": "WINDOWS7_VM7X64",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "MJBGTPW-D811": {
+        "DNS Name": "MJBGTPW-D811",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WINDOWS7VM8X64": {
+        "DNS Name": "WINDOWS7VM8X64",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "WINDOWS7VM9X64": {
+        "DNS Name": "WINDOWS7VM9X64",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "T430-DEMO": {
+        "DNS Name": "T430-DEMO",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LM1EM-L886": {
+        "DNS Name": "R9LM1EM-L886",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJMZBWL-D808": {
+        "DNS Name": "MJMZBWL-D808",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJEATVK-D847": {
+        "DNS Name": "MJEATVK-D847",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJHHLZZ-D847": {
+        "DNS Name": "MJHHLZZ-D847",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM11B-L894": {
+        "DNS Name": "R9LM11B-L894",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM13K-L894": {
+        "DNS Name": "R9LM13K-L894",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WINDOWS7VM19X64": {
+        "DNS Name": "WINDOWS7VM19X64",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "MJEATVC-D945": {
+        "DNS Name": "MJEATVC-D945",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM147-L900": {
+        "DNS Name": "R9LM147-L900",
+        "Operating System": "Windows 7 Professional"
+    },
+    "PRODUCTIVITYHUB": {
+        "DNS Name": "PRODUCTIVITYHUB",
+        "Operating System": "Windows 7 Enterprise"
+    },
+    "R9P9HVR-L412": {
+        "DNS Name": "R9P9HVR-L412",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9P9HVT-L816": {
+        "DNS Name": "R9P9HVT-L816",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM123-WIN7": {
+        "DNS Name": "R9LM123-WIN7",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3ADR8H-L895": {
+        "DNS Name": "L3ADR8H-L895",
+        "Operating System": "Windows XP Professional"
+    },
+    "W530DEMO": {
+        "DNS Name": "W530DEMO",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9LM14W-L863": {
+        "DNS Name": "R9LM14W-L863",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM14M-L861": {
+        "DNS Name": "R9LM14M-L861",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM146-L861": {
+        "DNS Name": "R9LM146-L861",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM12N-L861": {
+        "DNS Name": "R9LM12N-L861",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM11G-L861": {
+        "DNS Name": "R9LM11G-L861",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJNEDCL-D861": {
+        "DNS Name": "MJNEDCL-D861",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJNEDCK-D861": {
+        "DNS Name": "MJNEDCK-D861",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9PRXY6-L807": {
+        "DNS Name": "R9PRXY6-L807",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3AAC6K-L830": {
+        "DNS Name": "L3AAC6K-L830",
+        "Operating System": "Windows XP Professional"
+    },
+    "PRINTSERVICESPS": {
+        "DNS Name": "PRINTSERVICESPS",
+        "Operating System": ""
+    },
+    "R8536R1-L854": {
+        "DNS Name": "R8536R1-L854",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJMZBWH-W7D830": {
+        "DNS Name": "MJMZBWH-W7D830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9PRWL2-L834": {
+        "DNS Name": "R9PRWL2-L834",
+        "Operating System": "Windows 7 Professional"
+    },
+    "XP_SCCM_TEST3": {
+        "DNS Name": "XP_SCCM_TEST3",
+        "Operating System": "Windows XP Professional"
+    },
+    "WIN7_SCCM_TEST2": {
+        "DNS Name": "WIN7_SCCM_TEST2",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WIN7_SCCM_TEST1": {
+        "DNS Name": "WIN7_SCCM_TEST1",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9PZNF6-L808": {
+        "DNS Name": "R9PZNF6-L808",
+        "Operating System": "Windows 7 Professional"
+    },
+    "EUC061": {
+        "DNS Name": "EUC061",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUCT430S-TEST": {
+        "DNS Name": "EUCT430S-TEST",
+        "Operating System": "Windows XP Professional"
+    },
+    "CHEMSTATION01": {
+        "DNS Name": "CHEMSTATION01",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9P72ZE-L938": {
+        "DNS Name": "R9P72ZE-L938",
+        "Operating System": "Windows 7 Professional"
+    },
+    "TSG047": {
+        "DNS Name": "TSG047",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "R9LZRPW-L914": {
+        "DNS Name": "R9LZRPW-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3E6046-ML830": {
+        "DNS Name": "L3E6046-ML830",
+        "Operating System": "Windows XP Professional"
+    },
+    "EUC-SPACETEST": {
+        "DNS Name": "EUC-SPACETEST",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJPDFTP-D830": {
+        "DNS Name": "MJPDFTP-D830",
+        "Operating System": "Windows XP Professional"
+    },
+    "R8670V8-L874": {
+        "DNS Name": "R8670V8-L874",
+        "Operating System": "Windows XP Professional"
+    },
+    "TEST": {
+        "DNS Name": "TEST",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AAC0H-T909": {
+        "DNS Name": "L3AAC0H-T909",
+        "Operating System": "Windows XP Tablet PC Edition"
+    },
+    "R4TEST": {
+        "DNS Name": "R4TEST",
+        "Operating System": "Windows XP Professional"
+    },
+    "ITMNC-T430": {
+        "DNS Name": "ITMNC-T430",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJCBB96-D821": {
+        "DNS Name": "MJCBB96-D821",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJCVBAR-D844": {
+        "DNS Name": "MJCVBAR-D844",
+        "Operating System": "Windows 7 Professional"
+    },
+    "LCBO-4E21A74845": {
+        "DNS Name": "LCBO-4E21A74845",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJNKGV5-D895": {
+        "DNS Name": "MJNKGV5-D895",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJHCFN1-D871": {
+        "DNS Name": "MJHCFN1-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9BHYPW-L792": {
+        "DNS Name": "R9BHYPW-L792",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R993KMZ-L876": {
+        "DNS Name": "R993KMZ-L876",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9BHWV3-L823": {
+        "DNS Name": "R9BHWV3-L823",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9BK9AB-L854": {
+        "DNS Name": "R9BK9AB-L854",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9P72ZZ-L868": {
+        "DNS Name": "R9P72ZZ-L868",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FFTNF-L862": {
+        "DNS Name": "R9FFTNF-L862",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9P7305-L813": {
+        "DNS Name": "R9P7305-L813",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9P7308-L910": {
+        "DNS Name": "R9P7308-L910",
+        "Operating System": "Windows 7 Professional"
+    },
+    "GOLDKEY-TESTING": {
+        "DNS Name": "GOLDKEY-TESTING",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3AAD4R-L905": {
+        "DNS Name": "L3AAD4R-L905",
+        "Operating System": "Windows XP Professional"
+    },
+    "EUC062": {
+        "DNS Name": "EUC062",
+        "Operating System": "Windows Server 2012 R2 Datacenter"
+    },
+    "MJNLYBO-D879": {
+        "DNS Name": "MJNLYBO-D879",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9B5NV4-L797": {
+        "DNS Name": "R9B5NV4-L797",
+        "Operating System": "Windows 7 Professional"
+    },
+    "exsmbiPad": {
+        "DNS Name": "exsmbiPad",
+        "Operating System": ""
+    },
+    "R8636P1-L833": {
+        "DNS Name": "R8636P1-L833",
+        "Operating System": "Windows XP Professional"
+    },
+    "R81880W-L914": {
+        "DNS Name": "R81880W-L914",
+        "Operating System": "Windows XP Professional"
+    },
+    "M92_MINI": {
+        "DNS Name": "M92_MINI",
+        "Operating System": "Windows XP Professional"
+    },
+    "R8RMGV6-L905": {
+        "DNS Name": "R8RMGV6-L905",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWSXPVM2": {
+        "DNS Name": "WINDOWSXPVM2",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWSXPVM1": {
+        "DNS Name": "WINDOWSXPVM1",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWSXPVM3": {
+        "DNS Name": "WINDOWSXPVM3",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWSXPVM4": {
+        "DNS Name": "WINDOWSXPVM4",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWSXPVM5": {
+        "DNS Name": "WINDOWSXPVM5",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWSXPVM6": {
+        "DNS Name": "WINDOWSXPVM6",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWSXPVM7": {
+        "DNS Name": "WINDOWSXPVM7",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWSXPVM8": {
+        "DNS Name": "WINDOWSXPVM8",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWSXPVM9": {
+        "DNS Name": "WINDOWSXPVM9",
+        "Operating System": "Windows XP Professional"
+    },
+    "WINDOWSXPVM10": {
+        "DNS Name": "WINDOWSXPVM10",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9P7302-L862": {
+        "DNS Name": "R9P7302-L862",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRMHHZ-D910": {
+        "DNS Name": "MJRMHHZ-D910",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRMHHX-D910": {
+        "DNS Name": "MJRMHHX-D910",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRMHHW-D910": {
+        "DNS Name": "MJRMHHW-D910",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJYE609-D830": {
+        "DNS Name": "MJYE609-D830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R8HR346-L907": {
+        "DNS Name": "R8HR346-L907",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJLDCX8-D965": {
+        "DNS Name": "MJLDCX8-D965",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9RZG5K-L887": {
+        "DNS Name": "R9RZG5K-L887",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJTBYFG-D839": {
+        "DNS Name": "MJTBYFG-D839",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9P730A-L839": {
+        "DNS Name": "R9P730A-L839",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJTBYFK-D839": {
+        "DNS Name": "MJTBYFK-D839",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R8670W6-L907": {
+        "DNS Name": "R8670W6-L907",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJRMHHN-D950": {
+        "DNS Name": "MJRMHHN-D950",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJTBYFH-D863": {
+        "DNS Name": "MJTBYFH-D863",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9T8X5G-L826": {
+        "DNS Name": "R9T8X5G-L826",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9T8X5E-L826": {
+        "DNS Name": "R9T8X5E-L826",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9T6202-L903": {
+        "DNS Name": "R9T6202-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJHMYFN-W7D830": {
+        "DNS Name": "MJHMYFN-W7D830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJYE650-D833": {
+        "DNS Name": "MJYE650-D833",
+        "Operating System": "Windows XP Professional"
+    },
+    "XP_SCCM_TEST1": {
+        "DNS Name": "XP_SCCM_TEST1",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJRZHRN-D950": {
+        "DNS Name": "MJRZHRN-D950",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRZHRP-D950": {
+        "DNS Name": "MJRZHRP-D950",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9LM123-W7TEST": {
+        "DNS Name": "R9LM123-W7TEST",
+        "Operating System": "Windows 7 Professional"
+    },
+    "LCBO-1A08AB1896": {
+        "DNS Name": "LCBO-1A08AB1896",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9P7304-L861": {
+        "DNS Name": "R9P7304-L861",
+        "Operating System": "Windows 7 Professional"
+    },
+    "LKBAGKX-D909": {
+        "DNS Name": "LKBAGKX-D909",
+        "Operating System": "Windows XP Professional"
+    },
+    "R8382GF-L835": {
+        "DNS Name": "R8382GF-L835",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJRXZGE-D882": {
+        "DNS Name": "MJRXZGE-D882",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRXZGC-D871": {
+        "DNS Name": "MJRXZGC-D871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "italliPhone": {
+        "DNS Name": "italliPhone",
+        "Operating System": ""
+    },
+    "R965D2N-L894": {
+        "DNS Name": "R965D2N-L894",
+        "Operating System": "Windows XP Professional"
+    },
+    "R85E7GG-L866": {
+        "DNS Name": "R85E7GG-L866",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3AAC7Z-L887": {
+        "DNS Name": "L3AAC7Z-L887",
+        "Operating System": "Windows XP Professional"
+    },
+    "R8TNLDA-L863": {
+        "DNS Name": "R8TNLDA-L863",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AAD5H-L863": {
+        "DNS Name": "L3AAD5H-L863",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AAC5A-L864": {
+        "DNS Name": "L3AAC5A-L864",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3ADD6W-L862": {
+        "DNS Name": "L3ADD6W-L862",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AYC0D-L862": {
+        "DNS Name": "L3AYC0D-L862",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AAC5P-L864": {
+        "DNS Name": "L3AAC5P-L864",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AYB9W-L862": {
+        "DNS Name": "L3AYB9W-L862",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AYB9P-L862": {
+        "DNS Name": "L3AYB9P-L862",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3ADV0T-L863A": {
+        "DNS Name": "L3ADV0T-L863A",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3ADR9C-L861": {
+        "DNS Name": "L3ADR9C-L861",
+        "Operating System": "Windows XP Professional"
+    },
+    "R8ABDTZ-L802": {
+        "DNS Name": "R8ABDTZ-L802",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AAC4R-L865": {
+        "DNS Name": "L3AAC4R-L865",
+        "Operating System": "Windows XP Professional"
+    },
+    "R8HT509-L864": {
+        "DNS Name": "R8HT509-L864",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AAC3T-L865": {
+        "DNS Name": "L3AAC3T-L865",
+        "Operating System": "Windows XP Professional"
+    },
+    "R8HT522-L864": {
+        "DNS Name": "R8HT522-L864",
+        "Operating System": "Windows XP Professional"
+    },
+    "EUC066": {
+        "DNS Name": "EUC066",
+        "Operating System": "Windows Server 2012 R2 Datacenter"
+    },
+    "R8BBKWB-L941": {
+        "DNS Name": "R8BBKWB-L941",
+        "Operating System": "Windows XP Professional"
+    },
+    "EUC_PACKAGER": {
+        "DNS Name": "EUC_PACKAGER",
+        "Operating System": "Windows XP Professional"
+    },
+    "ORACLE12UPGRDE": {
+        "DNS Name": "ORACLE12UPGRDE",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJRXZGG-D882": {
+        "DNS Name": "MJRXZGG-D882",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRXZGF-D882": {
+        "DNS Name": "MJRXZGF-D882",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRXZGH-D882": {
+        "DNS Name": "MJRXZGH-D882",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRXZGD-D882": {
+        "DNS Name": "MJRXZGD-D882",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRXZGK": {
+        "DNS Name": "MJRXZGK",
+        "Operating System": "Windows XP Professional"
+    },
+    "VIRTUALXP-73943": {
+        "DNS Name": "VIRTUALXP-73943",
+        "Operating System": "Windows XP Professional"
+    },
+    "EUCLOANER1": {
+        "DNS Name": "EUCLOANER1",
+        "Operating System": "Windows XP Professional"
+    },
+    "833iPad": {
+        "DNS Name": "833iPad",
+        "Operating System": ""
+    },
+    "854iPhone": {
+        "DNS Name": "854iPhone",
+        "Operating System": ""
+    },
+    "830WebiPad": {
+        "DNS Name": "830WebiPad",
+        "Operating System": ""
+    },
+    "MJTGHMD-D915": {
+        "DNS Name": "MJTGHMD-D915",
+        "Operating System": "Windows 7 Professional"
+    },
+    "ithcciPad": {
+        "DNS Name": "ithcciPad",
+        "Operating System": ""
+    },
+    "R9T61ZY-L903": {
+        "DNS Name": "R9T61ZY-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9T6206-L903": {
+        "DNS Name": "R9T6206-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJVGMPE-D808": {
+        "DNS Name": "MJVGMPE-D808",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJVGMPH-D808": {
+        "DNS Name": "MJVGMPH-D808",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJVGMPG-D808": {
+        "DNS Name": "MJVGMPG-D808",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJVGMPF-D808": {
+        "DNS Name": "MJVGMPF-D808",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9T61ZM-L903": {
+        "DNS Name": "R9T61ZM-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJVFNDZ-D903": {
+        "DNS Name": "MJVFNDZ-D903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJVFNDN-D903": {
+        "DNS Name": "MJVFNDN-D903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "CSG077": {
+        "DNS Name": "CSG077",
+        "Operating System": "Windows Server 2016 Standard"
+    },
+    "LSG061": {
+        "DNS Name": "LSG061",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "R9T8X5D-L825": {
+        "DNS Name": "R9T8X5D-L825",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9T61ZW-L825": {
+        "DNS Name": "R9T61ZW-L825",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJVFNDX-D913": {
+        "DNS Name": "MJVFNDX-D913",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R956D2V-L873": {
+        "DNS Name": "R956D2V-L873",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9T8X5P-L825": {
+        "DNS Name": "R9T8X5P-L825",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9TF7PP-L871": {
+        "DNS Name": "R9TF7PP-L871",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJVFNDP-D821": {
+        "DNS Name": "MJVFNDP-D821",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJVFNDH-D821": {
+        "DNS Name": "MJVFNDH-D821",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9T61ZZ-L821": {
+        "DNS Name": "R9T61ZZ-L821",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9E76EP-L902": {
+        "DNS Name": "R9E76EP-L902",
+        "Operating System": "Windows 7 Professional"
+    },
+    "FISSLIPAD": {
+        "DNS Name": "FISSLIPAD",
+        "Operating System": ""
+    },
+    "MJWXRVM-D738": {
+        "DNS Name": "MJWXRVM-D738",
+        "Operating System": "Windows 7 Professional"
+    },
+    "fibxwiPad": {
+        "DNS Name": "fibxwiPad",
+        "Operating System": ""
+    },
+    "R9LM123-W7PILOT": {
+        "DNS Name": "R9LM123-W7PILOT",
+        "Operating System": "Windows 7 Professional"
+    },
+    "EUC074": {
+        "DNS Name": "EUC074",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "fitmmiPad": {
+        "DNS Name": "fitmmiPad",
+        "Operating System": ""
+    },
+    "R9TF7RH-L832": {
+        "DNS Name": "R9TF7RH-L832",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9TF7RR-L909": {
+        "DNS Name": "R9TF7RR-L909",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9TF7R9-L909": {
+        "DNS Name": "R9TF7R9-L909",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WINDOWS7MAC": {
+        "DNS Name": "WINDOWS7MAC",
+        "Operating System": "Windows 7 Professional"
+    },
+    "filjmiPad": {
+        "DNS Name": "filjmiPad",
+        "Operating System": ""
+    },
+    "MJ02469-D831": {
+        "DNS Name": "MJ02469-D831",
+        "Operating System": "Windows XP Professional"
+    },
+    "ficjliPad": {
+        "DNS Name": "ficjliPad",
+        "Operating System": ""
+    },
+    "MJHCFN3-D903": {
+        "DNS Name": "MJHCFN3-D903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "RSG030": {
+        "DNS Name": "RSG030",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "itmxliPad": {
+        "DNS Name": "itmxliPad",
+        "Operating System": ""
+    },
+    "ithnkiPad": {
+        "DNS Name": "ithnkiPad",
+        "Operating System": ""
+    },
+    "R81881A-L914": {
+        "DNS Name": "R81881A-L914",
+        "Operating System": "Windows XP Professional"
+    },
+    "CSG080": {
+        "DNS Name": "CSG080",
+        "Operating System": "Windows Server\u00ae 2008 Enterprise"
+    },
+    "CSG081": {
+        "DNS Name": "CSG081",
+        "Operating System": "Windows Server\u00ae 2008 Enterprise"
+    },
+    "MJXHKWG-D909": {
+        "DNS Name": "MJXHKWG-D909",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJXHKWK-D909": {
+        "DNS Name": "MJXHKWK-D909",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJXAPTY-D909": {
+        "DNS Name": "MJXAPTY-D909",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJWMAXB-D909": {
+        "DNS Name": "MJWMAXB-D909",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJWXZZB-D909": {
+        "DNS Name": "MJWXZZB-D909",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJWXRVN-D909": {
+        "DNS Name": "MJWXRVN-D909",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJWXRVP-D909": {
+        "DNS Name": "MJWXRVP-D909",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJXAPVA-D909": {
+        "DNS Name": "MJXAPVA-D909",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9TEWNW-L814": {
+        "DNS Name": "R9TEWNW-L814",
+        "Operating System": "Windows 7 Professional"
+    },
+    "ficmdiPad": {
+        "DNS Name": "ficmdiPad",
+        "Operating System": ""
+    },
+    "R9TEWNY-L864": {
+        "DNS Name": "R9TEWNY-L864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9V8YH7-L864": {
+        "DNS Name": "R9V8YH7-L864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9TEWNX-L864": {
+        "DNS Name": "R9TEWNX-L864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9V8YH8-L864": {
+        "DNS Name": "R9V8YH8-L864",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9V8YHH-L864": {
+        "DNS Name": "R9V8YHH-L864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9VVWFF-L846": {
+        "DNS Name": "R9VVWFF-L846",
+        "Operating System": "Windows 7 Professional"
+    },
+    "remamiPad": {
+        "DNS Name": "remamiPad",
+        "Operating System": "iOS"
+    },
+    "rekxsiPad": {
+        "DNS Name": "rekxsiPad",
+        "Operating System": ""
+    },
+    "resnaiPad": {
+        "DNS Name": "resnaiPad",
+        "Operating System": "iOS 6"
+    },
+    "rempoiPad": {
+        "DNS Name": "rempoiPad",
+        "Operating System": "iOS"
+    },
+    "repnmiPad": {
+        "DNS Name": "repnmiPad",
+        "Operating System": "iOS"
+    },
+    "reklziPad": {
+        "DNS Name": "reklziPad",
+        "Operating System": "iOS"
+    },
+    "rejdgiPad": {
+        "DNS Name": "rejdgiPad",
+        "Operating System": "iOS"
+    },
+    "recjeiPad": {
+        "DNS Name": "recjeiPad",
+        "Operating System": ""
+    },
+    "MININT-KGS6HQK": {
+        "DNS Name": "MININT-KGS6HQK",
+        "Operating System": "Windows XP Professional"
+    },
+    "rerxliPad": {
+        "DNS Name": "rerxliPad",
+        "Operating System": ""
+    },
+    "remnsiPad": {
+        "DNS Name": "remnsiPad",
+        "Operating System": ""
+    },
+    "rejtmiPad": {
+        "DNS Name": "rejtmiPad",
+        "Operating System": ""
+    },
+    "redaciPad": {
+        "DNS Name": "redaciPad",
+        "Operating System": ""
+    },
+    "MININT-P6UNRL1": {
+        "DNS Name": "MININT-P6UNRL1",
+        "Operating System": "Windows XP Professional"
+    },
+    "ressmiPad": {
+        "DNS Name": "ressmiPad",
+        "Operating System": ""
+    },
+    "mekytiPad": {
+        "DNS Name": "mekytiPad",
+        "Operating System": ""
+    },
+    "rerxriPad": {
+        "DNS Name": "rerxriPad",
+        "Operating System": ""
+    },
+    "XP_APPTESTING": {
+        "DNS Name": "XP_APPTESTING",
+        "Operating System": "Windows XP Professional"
+    },
+    "MININT-3TLPO1R": {
+        "DNS Name": "MININT-3TLPO1R",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJAWHNC-D862": {
+        "DNS Name": "MJAWHNC-D862",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJYAADN-D840": {
+        "DNS Name": "MJYAADN-D840",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJXNMDV-D840": {
+        "DNS Name": "MJXNMDV-D840",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJXNMDX-D840": {
+        "DNS Name": "MJXNMDX-D840",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJXHKWH-D840": {
+        "DNS Name": "MJXHKWH-D840",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJXNMDW-D840": {
+        "DNS Name": "MJXNMDW-D840",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9VY2VN-L840": {
+        "DNS Name": "R9VY2VN-L840",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9VY2PY-L769": {
+        "DNS Name": "R9VY2PY-L769",
+        "Operating System": "Windows 7 Professional"
+    },
+    "itdhbiPad": {
+        "DNS Name": "itdhbiPad",
+        "Operating System": ""
+    },
+    "itakliPad": {
+        "DNS Name": "itakliPad",
+        "Operating System": ""
+    },
+    "MECG7": {
+        "DNS Name": "MECG7",
+        "Operating System": "Windows XP Professional"
+    },
+    "830iPad": {
+        "DNS Name": "830iPad",
+        "Operating System": ""
+    },
+    "MJYBXZM-D864": {
+        "DNS Name": "MJYBXZM-D864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJXNMDR-D864": {
+        "DNS Name": "MJXNMDR-D864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJYBXZN-D864": {
+        "DNS Name": "MJYBXZN-D864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJXNMDT-D864": {
+        "DNS Name": "MJXNMDT-D864",
+        "Operating System": "Windows 7 Professional"
+    },
+    "itjnziPad": {
+        "DNS Name": "itjnziPad",
+        "Operating System": ""
+    },
+    "MJMRBPD-W7D830": {
+        "DNS Name": "MJMRBPD-W7D830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJYBXZK-D840": {
+        "DNS Name": "MJYBXZK-D840",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJRMYPK-W846": {
+        "DNS Name": "MJRMYPK-W846",
+        "Operating System": "Windows Server 2008 R2 Standard"
+    },
+    "R9WDD06-L821": {
+        "DNS Name": "R9WDD06-L821",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJZE891-D890": {
+        "DNS Name": "MJZE891-D890",
+        "Operating System": "Windows 7 Professional"
+    },
+    "IRM019": {
+        "DNS Name": "IRM019",
+        "Operating System": "Windows Server 2012 R2 Datacenter"
+    },
+    "meslmiPhone": {
+        "DNS Name": "meslmiPhone",
+        "Operating System": ""
+    },
+    "R9LM1EP-L907": {
+        "DNS Name": "R9LM1EP-L907",
+        "Operating System": "Windows XP Professional"
+    },
+    "833GalaxyS3": {
+        "DNS Name": "833GalaxyS3",
+        "Operating System": ""
+    },
+    "830GalaxyII": {
+        "DNS Name": "830GalaxyII",
+        "Operating System": "Android"
+    },
+    "itvrriPad": {
+        "DNS Name": "itvrriPad",
+        "Operating System": "iOS"
+    },
+    "R9LM123-W7L830": {
+        "DNS Name": "R9LM123-W7L830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9VY2VT-D803": {
+        "DNS Name": "R9VY2VT-D803",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9VY2TA-L803": {
+        "DNS Name": "R9VY2TA-L803",
+        "Operating System": "Windows 7 Professional"
+    },
+    "IT833EntiPad": {
+        "DNS Name": "IT833EntiPad",
+        "Operating System": ""
+    },
+    "mecxbiPad": {
+        "DNS Name": "mecxbiPad",
+        "Operating System": ""
+    },
+    "MJZMBKZ-D838": {
+        "DNS Name": "MJZMBKZ-D838",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJZLFHF-D907": {
+        "DNS Name": "MJZLFHF-D907",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9C5W4R-L925": {
+        "DNS Name": "R9C5W4R-L925",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9WNT1F-L914": {
+        "DNS Name": "R9WNT1F-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9WNT1C-L914": {
+        "DNS Name": "R9WNT1C-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R956D2K-L836": {
+        "DNS Name": "R956D2K-L836",
+        "Operating System": "Windows XP Professional"
+    },
+    "R9WNT1E-L914": {
+        "DNS Name": "R9WNT1E-L914",
+        "Operating System": "Windows 7 Professional"
+    },
+    "blackberry-c9f1": {
+        "DNS Name": "blackberry-c9f1",
+        "Operating System": "BlackBerry 10"
+    },
+    "R9WGY9T-L808": {
+        "DNS Name": "R9WGY9T-L808",
+        "Operating System": "Windows 7 Professional"
+    },
+    "GT-N8010-T830": {
+        "DNS Name": "GT-N8010-T830",
+        "Operating System": ""
+    },
+    "MLZMBKY-D965": {
+        "DNS Name": "MLZMBKY-D965",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJZMBLB-D965": {
+        "DNS Name": "MJZMBLB-D965",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJZMBLE-D965": {
+        "DNS Name": "MJZMBLE-D965",
+        "Operating System": "Windows XP Professional"
+    },
+    "SAM019": {
+        "DNS Name": "SAM019",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "R9WBWO4-L965": {
+        "DNS Name": "R9WBWO4-L965",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3AAD6Z-D830": {
+        "DNS Name": "L3AAD6Z-D830",
+        "Operating System": "Windows XP Professional"
+    },
+    "ithnkiPhone2": {
+        "DNS Name": "ithnkiPhone2",
+        "Operating System": ""
+    },
+    "MJ0644D-D845": {
+        "DNS Name": "MJ0644D-D845",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJMZBWF-W7D830": {
+        "DNS Name": "MJMZBWF-W7D830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJ0644K-D845": {
+        "DNS Name": "MJ0644K-D845",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJ0644C-D845": {
+        "DNS Name": "MJ0644C-D845",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9WGY3F-L845": {
+        "DNS Name": "R9WGY3F-L845",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJ0644H-D845": {
+        "DNS Name": "MJ0644H-D845",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJ0644F-D845": {
+        "DNS Name": "MJ0644F-D845",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9BHWV4-L886": {
+        "DNS Name": "R9BHWV4-L886",
+        "Operating System": "Windows 7 Professional"
+    },
+    "TEST-MLI": {
+        "DNS Name": "TEST-MLI",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9WBWR7-L845": {
+        "DNS Name": "R9WBWR7-L845",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9FFTNA-L907": {
+        "DNS Name": "R9FFTNA-L907",
+        "Operating System": "Windows 7 Professional"
+    },
+    "DMPK41BBF18C-T846": {
+        "DNS Name": "DMPK41BBF18C-T846",
+        "Operating System": ""
+    },
+    "F4KJX4DZF19D-T846": {
+        "DNS Name": "F4KJX4DZF19D-T846",
+        "Operating System": ""
+    },
+    "DMPK444EF18C-T846": {
+        "DNS Name": "DMPK444EF18C-T846",
+        "Operating System": ""
+    },
+    "DYTJG4CPDVGJ-T821": {
+        "DNS Name": "DYTJG4CPDVGJ-T821",
+        "Operating System": ""
+    },
+    "MJ4562C-D845": {
+        "DNS Name": "MJ4562C-D845",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9B5NTN-L876": {
+        "DNS Name": "R9B5NTN-L876",
+        "Operating System": "Windows 7 Professional"
+    },
+    "DMPK43EJF18C-T842": {
+        "DNS Name": "DMPK43EJF18C-T842",
+        "Operating System": ""
+    },
+    "MJYYZPN-D820": {
+        "DNS Name": "MJYYZPN-D820",
+        "Operating System": "Windows 7 Professional"
+    },
+    "F4KJX2T1F19H-T852": {
+        "DNS Name": "F4KJX2T1F19H-T852",
+        "Operating System": ""
+    },
+    "iOSSharedBES10": {
+        "DNS Name": "iOSSharedBES10",
+        "Operating System": ""
+    },
+    "EUC075": {
+        "DNS Name": "EUC075",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUC076": {
+        "DNS Name": "EUC076",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUC077": {
+        "DNS Name": "EUC077",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "MJYYZPL-D890": {
+        "DNS Name": "MJYYZPL-D890",
+        "Operating System": "Windows 7 Professional"
+    },
+    "BB10SharedBES10": {
+        "DNS Name": "BB10SharedBES10",
+        "Operating System": ""
+    },
+    "R8536R2-L830": {
+        "DNS Name": "R8536R2-L830",
+        "Operating System": "Windows 7 Professional"
+    },
+    "DMPK51LKF18C-T907": {
+        "DNS Name": "DMPK51LKF18C-T907",
+        "Operating System": ""
+    },
+    "RSG037": {
+        "DNS Name": "RSG037",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "RSG036": {
+        "DNS Name": "RSG036",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "MJBA206-D879": {
+        "DNS Name": "MJBA206-D879",
+        "Operating System": "Windows XP Professional"
+    },
+    "DMPJV6K7F18C-T925": {
+        "DNS Name": "DMPJV6K7F18C-T925",
+        "Operating System": ""
+    },
+    "DMPK43H7F18C-T804": {
+        "DNS Name": "DMPK43H7F18C-T804",
+        "Operating System": ""
+    },
+    "DMPK52H6F18C-T853": {
+        "DNS Name": "DMPK52H6F18C-T853",
+        "Operating System": ""
+    },
+    "DMPK610GF18C-T853": {
+        "DNS Name": "DMPK610GF18C-T853",
+        "Operating System": ""
+    },
+    "F4KK355NF19D-T804": {
+        "DNS Name": "F4KK355NF19D-T804",
+        "Operating System": ""
+    },
+    "F2LJCT6EDTTN-M833": {
+        "DNS Name": "F2LJCT6EDTTN-M833",
+        "Operating System": "iOS"
+    },
+    "87101AK9A4T-M833": {
+        "DNS Name": "87101AK9A4T-M833",
+        "Operating System": "iOS"
+    },
+    "DMPK51DPF18C-T861": {
+        "DNS Name": "DMPK51DPF18C-T861",
+        "Operating System": ""
+    },
+    "CSG084-OLD": {
+        "DNS Name": "CSG084-OLD",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "DMPHLENKDVGJ-T809": {
+        "DNS Name": "DMPHLENKDVGJ-T809",
+        "Operating System": ""
+    },
+    "L3AAC0K-T909": {
+        "DNS Name": "L3AAC0K-T909",
+        "Operating System": "Windows XP Tablet PC Edition"
+    },
+    "L3AAC0L-T909": {
+        "DNS Name": "L3AAC0L-T909",
+        "Operating System": "Windows XP Tablet PC Edition"
+    },
+    "L3AAC0F-T909": {
+        "DNS Name": "L3AAC0F-T909",
+        "Operating System": "Windows XP Tablet PC Edition"
+    },
+    "R8670W3-L830": {
+        "DNS Name": "R8670W3-L830",
+        "Operating System": "Windows XP Professional"
+    },
+    "SAM020": {
+        "DNS Name": "SAM020",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "dmpjq7cwf18c-t863": {
+        "DNS Name": "dmpjq7cwf18c-t863",
+        "Operating System": ""
+    },
+    "L3AAC6L-L830": {
+        "DNS Name": "L3AAC6L-L830",
+        "Operating System": "Windows XP Professional"
+    },
+    "F4KK2426F19D-T847": {
+        "DNS Name": "F4KK2426F19D-T847",
+        "Operating System": ""
+    },
+    "R9XOA2K-L830": {
+        "DNS Name": "R9XOA2K-L830",
+        "Operating System": "Windows XP Professional"
+    },
+    "EUC101": {
+        "DNS Name": "EUC101",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUC102": {
+        "DNS Name": "EUC102",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUC108": {
+        "DNS Name": "EUC108",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUC106": {
+        "DNS Name": "EUC106",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUC107": {
+        "DNS Name": "EUC107",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUC105": {
+        "DNS Name": "EUC105",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUC120": {
+        "DNS Name": "EUC120",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUCVIRTUALWIN7": {
+        "DNS Name": "EUCVIRTUALWIN7",
+        "Operating System": "Windows 7 Professional"
+    },
+    "EUC110": {
+        "DNS Name": "EUC110",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "RSG075": {
+        "DNS Name": "RSG075",
+        "Operating System": "Windows Server 2012 Standard"
+    },
+    "c39gy254dtdt-m854": {
+        "DNS Name": "c39gy254dtdt-m854",
+        "Operating System": "iOS"
+    },
+    "DLXGJDALDFJI-T903": {
+        "DNS Name": "DLXGJDALDFJI-T903",
+        "Operating System": ""
+    },
+    "L3AAC8Y": {
+        "DNS Name": "L3AAC8Y",
+        "Operating System": "Windows XP Professional"
+    },
+    "L38Z0A0-L903": {
+        "DNS Name": "L38Z0A0-L903",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJ247V2-T805": {
+        "DNS Name": "MJ247V2-T805",
+        "Operating System": "Windows 7 Professional"
+    },
+    "EUC113": {
+        "DNS Name": "EUC113",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUC109": {
+        "DNS Name": "EUC109",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUC111": {
+        "DNS Name": "EUC111",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "EUC112": {
+        "DNS Name": "EUC112",
+        "Operating System": "Windows Server 2008 R2 Enterprise"
+    },
+    "R9EC3MY-L903": {
+        "DNS Name": "R9EC3MY-L903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJFXPM6-D820": {
+        "DNS Name": "MJFXPM6-D820",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJBGTRD-D935": {
+        "DNS Name": "MJBGTRD-D935",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MJAWHNL-D907": {
+        "DNS Name": "MJAWHNL-D907",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9M01F1-T909": {
+        "DNS Name": "R9M01F1-T909",
+        "Operating System": "Windows 7 Professional"
+    },
+    "ITRVC-SQL-DEV": {
+        "DNS Name": "ITRVC-SQL-DEV",
+        "Operating System": "Windows Server 2012 Standard"
+    },
+    "TSG051": {
+        "DNS Name": "TSG051",
+        "Operating System": "Windows Server 2012 R2 Datacenter"
+    },
+    "ITRVC-WIN7-DEV": {
+        "DNS Name": "ITRVC-WIN7-DEV",
+        "Operating System": "Windows 7 Professional"
+    },
+    "ITRVC-APP-DEV13": {
+        "DNS Name": "ITRVC-APP-DEV13",
+        "Operating System": "Windows Server 2012 Standard"
+    },
+    "DMPK21PCF18G-T917": {
+        "DNS Name": "DMPK21PCF18G-T917",
+        "Operating System": ""
+    },
+    "DMPK1AGJF18C-T941": {
+        "DNS Name": "DMPK1AGJF18C-T941",
+        "Operating System": ""
+    },
+    "WIN7X64-W530": {
+        "DNS Name": "WIN7X64-W530",
+        "Operating System": "Windows 7 Professional"
+    },
+    "CAUProdHk3u": {
+        "DNS Name": "CAUProdHk3u",
+        "Operating System": ""
+    },
+    "MJPT335-D813": {
+        "DNS Name": "MJPT335-D813",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJ02463-D832": {
+        "DNS Name": "MJ02463-D832",
+        "Operating System": "Windows XP Professional"
+    },
+    "F4KJQ1J2F19D-T829": {
+        "DNS Name": "F4KJQ1J2F19D-T829",
+        "Operating System": ""
+    },
+    "R99MCZP-L913": {
+        "DNS Name": "R99MCZP-L913",
+        "Operating System": "Windows 7 Professional"
+    },
+    "DN6GPHEGDKPJ-T870": {
+        "DNS Name": "DN6GPHEGDKPJ-T870",
+        "Operating System": ""
+    },
+    "XP_SCCM_TEST2": {
+        "DNS Name": "XP_SCCM_TEST2",
+        "Operating System": "Windows XP Professional"
+    },
+    "L3G9338-L833": {
+        "DNS Name": "L3G9338-L833",
+        "Operating System": "Windows XP Professional"
+    },
+    "EUC-VIRTUALW7": {
+        "DNS Name": "EUC-VIRTUALW7",
+        "Operating System": "Windows 7 Professional"
+    },
+    "RSG046": {
+        "DNS Name": "RSG046",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "RSG047": {
+        "DNS Name": "RSG047",
+        "Operating System": "Windows Server 2012 R2 Standard"
+    },
+    "L3E2641-L878": {
+        "DNS Name": "L3E2641-L878",
+        "Operating System": "Windows XP Professional"
+    },
+    "DMPKT18GF18C-T803": {
+        "DNS Name": "DMPKT18GF18C-T803",
+        "Operating System": ""
+    },
+    "DMPKT1VEF18C-T792": {
+        "DNS Name": "DMPKT1VEF18C-T792",
+        "Operating System": ""
+    },
+    "EUCVIRTUALWIN7_": {
+        "DNS Name": "EUCVIRTUALWIN7_",
+        "Operating System": "Windows 7 Professional"
+    },
+    "W9WNT17-L914": {
+        "DNS Name": "W9WNT17-L914",
+        "Operating System": "Windows XP Professional"
+    },
+    "WIN7TESTT500": {
+        "DNS Name": "WIN7TESTT500",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R9CAG90-L834": {
+        "DNS Name": "R9CAG90-L834",
+        "Operating System": "Windows XP Professional"
+    },
+    "MININT-3NJDJ4N": {
+        "DNS Name": "MININT-3NJDJ4N",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MININT-P1MTQAP": {
+        "DNS Name": "MININT-P1MTQAP",
+        "Operating System": "Windows 7 Professional"
+    },
+    "WIN7OSD_X86": {
+        "DNS Name": "WIN7OSD_X86",
+        "Operating System": "Windows 7 Professional"
+    },
+    "OEM-WIN7": {
+        "DNS Name": "OEM-WIN7",
+        "Operating System": "Windows 7 Professional"
+    },
+    "MININT-NS1FEM6": {
+        "DNS Name": "MININT-NS1FEM6",
+        "Operating System": "Windows 7 Professional"
+    },
+    "L3AAC6B-L833": {
+        "DNS Name": "L3AAC6B-L833",
+        "Operating System": "Windows XP Professional"
+    },
+    "ITMNC-OEMTEST": {
+        "DNS Name": "ITMNC-OEMTEST",
+        "Operating System": "Windows 7 Professional"
+    },
+    "R8670T4-L910": {
+        "DNS Name": "R8670T4-L910",
+        "Operating System": "Windows XP Professional"
+    },
+    "POSTGENERIC": {
+        "DNS Name": "POSTGENERIC",
+        "Operating System": "Windows 7 Professional"
+    },
+    "FIN_OEM": {
+        "DNS Name": "FIN_OEM",
+        "Operating System": "Windows 7 Professional"
+    },
+    "GOINGCRUIZING": {
+        "DNS Name": "GOINGCRUIZING",
+        "Operating System": "Windows 7 Professional"
+    },
+    "PRODHYPERV2012": {
+        "DNS Name": "PRODHYPERV2012",
+        "Operating System": "Windows Server 2012 Datacenter"
+    },
+    "BACK2SCHOOL": {
+        "DNS Name": "BACK2SCHOOL",
+        "Operating System": "Windows 7 Professional"
+    },
+    "RSG054": {
+        "DNS Name": "RSG054",
+        "Operating System": "Windows Server 2012 Standard"
+    },
+    "RSG053": {
+        "DNS Name": "RSG053",
+        "Operating System": "Windows Server 2012 Standard"
+    },
+    "0644-3233-2762-P833": {
+        "DNS Name": "0644-3233-2762-P833",
+        "Operating System": "BB10"
+    },
+    "0644-4016-4964-P903": {
+        "DNS Name": "0644-4016-4964-P903",
+        "Operating System": "BB10"
+    },
+    "0616-9468-5949-P830": {
+        "DNS Name": "0616-9468-5949-P830",
+        "Operating System": "BB10"
+    },
+    "dmpk5292f18c-t907": {
+        "DNS Name": "dmpk5292f18c-t907",
+        "Operating System": ""
+    },
+    "TENSOR27": {
+        "DNS Name": "TENSOR27",
+        "Operating System": "Windows XP Professional"
+    },
+    "MJGNHMT-D903": {
+        "DNS Name": "MJGNHMT-D903",
+        "Operating System": "Windows 7 Professional"
+    },
+    "DMPLC151FCYC-T866": {
+        "DNS Name": "DMPLC151FCYC-T866",
+        "Operating System": ""
+    },
+    "DMPLC1JNFCYC-T886": {
+        "DNS Name": "DMPLC1JNFCYC-T886",
+        "Operating System": ""
+    },
+    "DMPLC11LFCYC-T886": {
+        "DNS Name": "DMPLC11LFCYC-T886",
+        "Operating System": ""
+    },
+    "DMPLC2JUFCYC-T886": {
+        "DNS Name": "DMPLC2JUFCYC-T886",
+        "Operating System": ""
+    },
+    "DMPLC19AFCYC-T886": {
+        "DNS Name": "DMPLC19AFCYC-T886",
+        "Operating System": ""
+    },
+    "DMPLD0HAF18G-T874": {
+        "DNS Name": "DMPLD0HAF18G-T874",
+        "Operating System": ""
+    },
+    "MININT-BSJEIF6": {
+        "DNS Name": "MININT-BSJEIF6",
+        "Operating System": "Windows XP Professional"
+    },
+    "DMPJV7U9F18G-T862": {
+        "DNS Name": "DMPJV7U9F18G-T862",
+        "Operating System": ""
+    },
+    "BRPSERV": {
+        "DNS Name": "BRPSERV",
+        "Operating System": "Windows Server 2003"
+    },
+    "LCBO-62309E9531": {
+        "DNS Name": "LCBO-62309E9531",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-ADF526C9D1": {
+        "DNS Name": "LCBO-ADF526C9D1",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-623DE7CE02": {
+        "DNS Name": "LCBO-623DE7CE02",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-3DBA57F941": {
+        "DNS Name": "LCBO-3DBA57F941",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-5C96F252CC": {
+        "DNS Name": "LCBO-5C96F252CC",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-145AF0137A": {
+        "DNS Name": "LCBO-145AF0137A",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-02D7CCB873": {
+        "DNS Name": "LCBO-02D7CCB873",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-CE68AE9AF6": {
+        "DNS Name": "LCBO-CE68AE9AF6",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-617013FBB6": {
+        "DNS Name": "LCBO-617013FBB6",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-A7BF282340": {
+        "DNS Name": "LCBO-A7BF282340",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-498082EC65": {
+        "DNS Name": "LCBO-498082EC65",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-3921BBB81B": {
+        "DNS Name": "LCBO-3921BBB81B",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-64704BD38B": {
+        "DNS Name": "LCBO-64704BD38B",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-ADFDCE7803": {
+        "DNS Name": "LCBO-ADFDCE7803",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-23CF39E6CB": {
+        "DNS Name": "LCBO-23CF39E6CB",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-1BD6A40BC3": {
+        "DNS Name": "LCBO-1BD6A40BC3",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-3D055A4561": {
+        "DNS Name": "LCBO-3D055A4561",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-3AAA832D9E": {
+        "DNS Name": "LCBO-3AAA832D9E",
+        "Operating System": "Windows XP Professional"
+    },
+    "LCBO-C7BB9C6ADF": {
+        "DNS Name": "LCBO-C7BB9C6ADF",
+        "Operating System": "Windows XP Professional"
+    }
+}
